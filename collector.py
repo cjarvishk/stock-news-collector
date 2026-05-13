@@ -8,6 +8,7 @@ Outputs formatted markdown report.
 import feedparser
 import requests
 import yaml
+import json
 import os
 import sys
 from datetime import datetime
@@ -126,31 +127,74 @@ def format_markdown(all_news, config):
     
     return "\n".join(report)
 
+
+def format_json(all_news, config):
+    """Format collected news as JSON for the web dashboard."""
+    markets = config.get("markets", {})
+    tz = ZoneInfo(config.get("output", {}).get("time_zone", "Asia/Hong_Kong"))
+    now = datetime.now(tz)
+
+    data = {
+        "timestamp": now.strftime("%Y-%m-%d %H:%M (HKT)"),
+        "sections": []
+    }
+
+    for market_key, market_info in markets.items():
+        market_name = market_info.get("name", market_key.upper())
+        news_items = all_news.get(market_key, [])
+
+        section = {
+            "title": market_name,
+            "items": []
+        }
+
+        for item in news_items:
+            section["items"].append({
+                "title": item.get("title", "No title"),
+                "link": item.get("link", ""),
+                "source": item.get("source", "Unknown"),
+                "time": item.get("published", ""),
+                "summary": item.get("summary", "")
+            })
+
+        data["sections"].append(section)
+
+    return data
+
+
 def main():
     """Main entry point."""
     config = load_config()
-    
+
     print("📡 正在收集股市新聞...")
     all_news = collect_news(config)
-    
+
     print("📝 正在生成報告...")
     report = format_markdown(all_news, config)
-    
-    # Save to file
+
+    # Save markdown report
     output_dir = os.path.join(os.path.dirname(__file__), "reports")
     os.makedirs(output_dir, exist_ok=True)
-    
+
     tz = ZoneInfo(config.get("output", {}).get("time_zone", "Asia/Hong_Kong"))
     now = datetime.now(tz)
     filename = f"report_{now.strftime('%Y-%m-%d_%H-%M')}.md"
     filepath = os.path.join(output_dir, filename)
-    
+
     with open(filepath, "w", encoding="utf-8") as f:
         f.write(report)
-    
+
     print(f"✅ 報告已保存至 {filepath}")
+
+    # Save JSON data for web dashboard
+    json_data = format_json(all_news, config)
+    json_path = os.path.join(os.path.dirname(__file__), "data.json")
+    with open(json_path, "w", encoding="utf-8") as f:
+        json.dump(json_data, f, ensure_ascii=False, indent=2)
+
+    print(f"✅ JSON 數據已保存至 {json_path}")
     print(f"📊 收集完成！")
-    
+
     # Also print to stdout
     print("\n" + "="*50)
     print(report[:2000])  # Print first 2000 chars

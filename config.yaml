@@ -1,0 +1,43 @@
+# Stock Market News Collector Configuration
+# Markets: US, Japan, Korea, Europe
+
+markets:
+  us:
+    name: "🇺🇸 美國股市"
+    sources:
+      - name: "CNBC Top News"
+        url: "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
+      - name: "Google News US Stocks"
+        url: "https://news.google.com/rss/search?q=us+stock+market+OR+s%26p+500+OR+dow+jones&hl=en-US&gl=US&ceid=US:en"
+      - name: "Bloomberg Markets"
+        url: "https://feeds.bloomberg.com/markets/news.rss"
+
+  japan:
+    name: "🇯🇵 日本股市"
+    sources:
+      - name: "Google News Japan Stocks"
+        url: "https://news.google.com/rss/search?q=nikkei+OR+japan+stock+market+OR+tokyo+stock&hl=en&gl=JP&ceid=JP:en"
+      - name: "Bloomberg Asia"
+        url: "https://feeds.bloomberg.com/asia/news.rss"
+
+  korea:
+    name: "🇰🇷 韓國股市"
+    sources:
+      - name: "Google News Korea Stocks"
+        url: "https://news.google.com/rss/search?q=korea+stock+market+OR+kospi+OR+kosdaq&hl=en&gl=KR&ceid=KR:en"
+      - name: "Korea Herald"
+        url: "https://www.koreaherald.com/rss/economy.xml"
+
+  europe:
+    name: "🇪🇺 歐洲股市"
+    sources:
+      - name: "Google News Europe Stocks"
+        url: "https://news.google.com/rss/search?q=europe+stock+market+OR+dax+OR+ftse+OR+euro+stoxx&hl=en&gl=GB&ceid=GB:en"
+      - name: "Reuters Business"
+        url: "https://www.reutersagency.com/feed/?best-topics=economy-indicators&post_type=best"
+
+# Output settings
+output:
+  format: "markdown"
+  max_items_per_source: 5
+  time_zone: "Asia/Hong_Kong"

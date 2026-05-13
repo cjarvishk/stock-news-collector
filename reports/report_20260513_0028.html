@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>📈 全球股市新聞速報</title>
+<style>
+  :root {
+    --bg: #0f1117;
+    --card: #1a1d28;
+    --border: #2a2d3a;
+    --text: #e4e6eb;
+    --muted: #8b8fa3;
+    --us: #3b82f6;
+    --jp: #ef4444;
+    --kr: #10b981;
+    --eu: #8b5cf6;
+    --link: #60a5fa;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+    padding: 2rem 1rem;
+  }
+  .container { max-width: 900px; margin: 0 auto; }
+
+  /* Header */
+  .header {
+    text-align: center;
+    margin-bottom: 2.5rem;
+    padding: 2rem;
+    background: linear-gradient(135deg, #1e2235 0%, #161929 100%);
+    border-radius: 16px;
+    border: 1px solid var(--border);
+  }
+  .header h1 { font-size: 2rem; margin-bottom: 0.5rem; }
+  .header .meta { color: var(--muted); font-size: 0.9rem; }
+  .markets { display: flex; justify-content: center; gap: 1.5rem; margin-top: 1rem; flex-wrap: wrap; }
+  .markets span { padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.85rem; font-weight: 600; }
+  .m-us { background: rgba(59,130,246,0.15); color: var(--us); }
+  .m-jp { background: rgba(239,68,68,0.15); color: var(--jp); }
+  .m-kr { background: rgba(16,185,129,0.15); color: var(--kr); }
+  .m-eu { background: rgba(139,92,246,0.15); color: var(--eu); }
+
+  /* Section */
+  .section { margin-bottom: 2.5rem; }
+  .section-title {
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--border);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .section-title.us { border-color: var(--us); }
+  .section-title.jp { border-color: var(--jp); }
+  .section-title.kr { border-color: var(--kr); }
+  .section-title.eu { border-color: var(--eu); }
+
+  /* Cards */
+  .news-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 1.25rem;
+    margin-bottom: 0.75rem;
+    transition: transform 0.15s, box-shadow 0.15s;
+  }
+  .news-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+  }
+  .news-card .title { font-weight: 600; margin-bottom: 0.4rem; }
+  .news-card .meta { font-size: 0.8rem; color: var(--muted); margin-bottom: 0.5rem; }
+  .news-card .summary { font-size: 0.9rem; color: #b0b3c0; margin-bottom: 0.75rem; }
+  .news-card a {
+    color: var(--link);
+    text-decoration: none;
+    font-size: 0.85rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+  }
+  .news-card a:hover { text-decoration: underline; }
+
+  /* Footer */
+  .footer {
+    text-align: center;
+    color: var(--muted);
+    font-size: 0.8rem;
+    margin-top: 3rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--border);
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <div class="header">
+    <h1>📈 全球股市新聞速報</h1>
+    <div class="meta">收集時間: 2026-05-13 00:28 UTC</div>
+    <div class="markets">
+      <span class="m-us">🇺🇸 美國</span>
+      <span class="m-jp">🇯🇵 日本</span>
+      <span class="m-kr">🇰🇷 韓國</span>
+      <span class="m-eu">🇪🇺 歐洲</span>
+    </div>
+  </div>
+
+  <!-- 美國 -->
+  <div class="section">
+    <div class="section-title us">🇺🇸 美國市場</div>
+
+    <div class="news-card">
+      <div class="title">Trump Tower Plan for Australia's Gold Coast Scrapped</div>
+      <div class="meta">🕐 05/12 16:03 | 📡 Bloomberg Markets</div>
+      <div class="summary">The Trump Organization has scrapped plans to put its name to a tower on Australia's Gold Coast, about three months after announcing a deal to bring the brand's first hotel to the country.</div>
+      <a href="https://www.bloomberg.com/news/articles/2026-05-13/trump-tower-plan-for-australia-s-gold-coast-scrapped" target="_blank">🔗 閱讀全文</a>
+    </div>
+
+    <div class="news-card">
+      <div class="title">Philippine Bonds Face Extended Slump on Large Rate Hike Bets</div>
+      <div class="meta">🕐 05/12 16:00 | 📡 Bloomberg Markets</div>
+      <div class="summary">Philippine sovereign bonds are extending a selloff as traders price in the prospect of a 50-basis-point rate hike, the largest since 2023.</div>
+      <a href="https://www.bloomberg.com/news/articles/2026-05-13/philippine-bonds-face-extended-slump-on-large-rate-hike-bets" target="_blank">🔗 閱讀全文</a>
+    </div>
+
+    <div class="news-card">
+      <div class="title">Geothermal Energy Developer Fervo Raises $1.89 Billion in US IPO</div>
+      <div class="meta">🕐 05/12 15:47 | 📡 Bloomberg Markets</div>
+      <div class="summary">Fervo Energy Co., a geothermal energy developer, raised $1.89 billion in a US initial public offering that priced above the marketed range, after upsizing the deal earlier this week.</div>
+      <a href="https://www.bloomberg.com/news/articles/2026-05-12/geothermal-energy-developer-fervo-raises-1-89-billion-in-us-ipo" target="_blank">🔗 閱讀全文</a>
+    </div>
+
+    <div class="news-card">
+      <div class="title">Stock futures are little changed as Wall Street awaits another April inflation report</div>
+      <div class="meta">🕐 05/12 15:05 | 📡 CNBC Top News</div>
+      <div class="summary">April's producer price index, another key inflation report, will be released at 8:30 a.m. on Wednesday morning.</div>
+      <a href="https://www.cnbc.com/2026/05/12/stock-market-today-live-updates.html" target="_blank">🔗 閱讀全文</a>
+    </div>
+
+    <div class="news-card">
+      <div class="title">Gold Holds Decline as Jump in US Inflation Lifts Rate-Hike Odds</div>
+      <div class="meta">🕐 05/12 14:54 | 📡 Bloomberg Markets</div>
+      <div class="summary">Gold held a decline after accelerating US inflation lifted the odds of the Federal Reserve raising interest rates this year.</div>
+      <a href="https://www.bloomberg.com/news/articles/2026-05-12/gold-holds-decline-as-us-inflation-jump-lowers-rate-cut-odds" target="_blank">🔗 閱讀全文</a>
+    </div>
+
+    <div class="news-card">
+      <div class="title">Oil Holds Gain as US Blockade Tightens Squeeze on Iranian Crude</div>
+      <div class="meta">🕐 05/12 14:03 | 📡 Bloomberg Markets</div>
+      <div class="summary">Oil was steady after a near 4% gain on Tuesday as a resolution to the Middle East conflict remains elusive, with Iranian exports showing further strain from a US Naval blockade of the vital Strait of Hormuz.</div>
+      <a href="https://www.bloomberg.com/news/articles/2026-05-12/latest-oil-market-news-and-analysis-for-may-13" target="_blank">🔗 閱讀全文</a>
+    </div>
+
+    <div class="news-card">
+      <div class="title">The stock market isn't ignoring Iran. It's rising for these three very real reasons</div>
+      <div class="meta">🕐 05/12 13:56 | 📡 CNBC Top News</div>
+      <div class="summary">It's time to take a closer look with stocks rallying into the third month of the U.S.-Iran conflict.</div>
+      <a href="https://www.cnbc.com/2026/05/12/the-stock-market-isnt-ignoring-iran-its-rising-for-these-three-very-real-reasons.html" target="_blank">🔗 閱讀全文</a>
+    </div>
+
+    <div class="news-card">
+      <div class="title">OpenAI trial recap: Altman testifies he never promised Musk to keep company a nonprofit</div>
+      <div class="meta">🕐 05/12 13:33 | 📡 CNBC Top News</div>
+      <div class="summary">Elon Musk is accusing OpenAI CEO Sam Altman and President Greg Brockman of trying to 'steal a charity.'</div>
+      <a href="https://www.cnbc.com/2026/05/12/openai-trial-updates-sam-altman-set-to-testify-in-musk-suit.html" target="_blank">🔗 閱讀全文</a>
+    </div>
+
+    <div class="news-card">
+      <div class="title">It's not just Iran and oil raising inflation. Prices also are reaccelerating in these other areas</div>
+      <div class="meta">🕐 05/12 13:04 | 📡 CNBC Top News</div>
+      <div class="summary">Here's some of the places where prices are rising fast for consumers.</div>
+      <a href="https://www.cnbc.com/2026/05/12/iran-oil-energy-inflation-shelter-food-trump.html" target="_blank">🔗 閱讀全文</a>
+    </div>
+
+    <div class="news-card">
+      <div class="title">Auto-state lawmakers seek to keep certain Chinese vehicles out of U.S. as Trump heads to Beijing</div>
+      <div class="meta">🕐 05/12 12:26 | 📡 CNBC Top News</div>
+      <div class="summary">Michigan lawmakers introduced a bipartisan bill to ban Chinese-connected vehicles and technology from the U.S. market over security concerns.</div>
+      <a href="https://www.cnbc.com/2026/05/12/trump-congress-china-evs-byd.html" target="_blank">🔗 閱讀全文</a>
+    </div>
+  </div>
+
+  <!-- 歐洲 -->
+  <div class="section">
+    <div class="section-title eu">🇪🇺 歐洲市場</div>
+
+    <div class="news-card">
+      <div class="title">UK borrowing costs surge as Starmer leadership crisis rattles bond markets</div>
+      <div class="meta">🕐 05/12 08:30 | 📡 Financial Times Markets</div>
+      <div class="summary">Thirty-year gilt yield at highest this century as cabinet ministers pressure PM to consider his position.</div>
+      <a href="https://www.ft.com/content/4bd1dadd-3a1c-4adf-b255-0b03f7e8c36d" target="_blank">🔗 閱讀全文</a>
+    </div>
+
+    <div class="news-card">
+      <div class="title">CME plans to launch futures market for AI computing power</div>
+      <div class="meta">🕐 05/12 08:05 | 📡 Financial Times Markets</div>
+      <div class="summary">New contracts will allow traders and companies to bet on and hedge future price of GPU rental.</div>
+      <a href="https://www.ft.com/content/3e6b81e3-954d-4ac1-936b-00ea865bc98d" target="_blank">🔗 閱讀全文</a>
+    </div>
+
+    <div class="news-card">
+      <div class="title">Scottish Mortgage defends $1.25tn SpaceX valuation ahead of IPO</div>
+      <div class="meta">🕐 05/12 11:24 | 📡 Financial Times Markets</div>
+      <div class="summary">UK investment trust's valuation means its holding in Elon Musk's company is worth £3bn.</div>
+      <a href="https://www.ft.com/content/6892af95-3172-4312-a3ca-e49b57620918" target="_blank">🔗 閱讀全文</a>
+    </div>
+
+    <div class="news-card">
+      <div class="title">China's big tech groups miss out on AI stock market frenzy</div>
+      <div class="meta">🕐 05/12 13:00 | 📡 Financial Times Markets</div>
+      <div class="summary">Tencent and Alibaba left behind as investors focus on pure AI plays.</div>
+      <a href="https://www.ft.com/content/cba72e03-e47d-4d59-b59b-7dc4259b1265" target="_blank">🔗 閱讀全文</a>
+    </div>
+
+    <div class="news-card">
+      <div class="title">Can GameStop buy eBay?</div>
+      <div class="meta">🕐 05/12 12:00 | 📡 Financial Times Markets</div>
+      <div class="summary">What happens when a small company tries to buy a big company.</div>
+      <a href="https://www.ft.com/content/050e68b0-cca3-4d07-9c66-fedd22fd4cdd" target="_blank">🔗 閱讀全文</a>
+    </div>
+
+    <div class="news-card">
+      <div class="title">Meta pauses WhatsApp fee on rival chatbots for one month</div>
+      <div class="meta">🕐 05/12 08:44 | 📡 Euractiv Economy</div>
+      <div class="summary">Commission says the move allows time to discuss commitments in ongoing competition case.</div>
+      <a href="https://www.euractiv.com/news/meta-pauses-whatsapp-fee-on-rival-chatbots-for-one-month/" target="_blank">🔗 閱讀全文</a>
+    </div>
+
+    <div class="news-card">
+      <div class="title">Ribera cites US visa sanctions as case for EU tech sovereignty</div>
+      <div class="meta">🕐 05/12 10:08 | 📡 Euractiv Economy</div>
+      <div class="summary">"We cannot allow someone to try to influence our own decisions," Ribera warned.</div>
+      <a href="https://www.euractiv.com/news/ribera-cites-us-visa-sanctions-as-case-for-eu-tech-soverity/" target="_blank">🔗 閱讀全文</a>
+    </div>
+
+    <div class="news-card">
+      <div class="title">Trump postpones beef tariff cuts over fears of hitting US cattle farmers</div>
+      <div class="meta">🕐 05/12 08:23 | 📡 Financial Times Markets</div>
+      <div class="summary">Policy indecision comes amid discontent over high prices which have contributed to fall in president's approval ratings.</div>
+      <a href="https://www.ft.com/content/a2ccb28b-8f85-4d09-a241-2076ca8cd789" target="_blank">🔗 閱讀全文</a>
+    </div>
+  </div>
+
+  <div class="footer">由 Stock News Collector 自動生成</div>
+
+</div>
+</body>
+</html>

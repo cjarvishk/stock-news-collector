@@ -1,57 +1,50 @@
 {
-  "timestamp": "2026-05-13 16:51 (HKT)",
+  "timestamp": "2026-05-13 20:55 (HKT)",
   "sections": [
     {
       "title": "🇺🇸 美國股市",
       "items": [
         {
-          "title": "SoftBank posts $46 billion gain at Vision Fund driven mainly by massive OpenAI bet",
-          "link": "https://www.cnbc.com/2026/05/13/softbank-earnings-fy-2025-vision-fund-openai-stake.html",
+          "title": "Wholesale inflation jumps 6% in April on annual basis, biggest increase since 2022",
+          "link": "https://www.cnbc.com/2026/05/13/ppi-inflation-report-april-2026-.html",
           "source": "CNBC Top News",
-          "time": "Wed, 13 May 2026 08:19:32 GMT",
-          "summary": "SoftBank booked a yearly gain of $46 billion at its Vision Fund driven in large part by the huge rise in value of its investment in OpenAI."
+          "time": "Wed, 13 May 2026 12:52:06 GMT",
+          "summary": "The producer price index was expected to increase 0.5% in April, according to the Dow Jones consensus."
         },
         {
-          "title": "Jensen Huang joins Trump's China trip after the U.S. president called the Nvidia CEO",
-          "link": "https://www.cnbc.com/2026/05/13/nvidia-says-ceo-jensen-huang-is-joining-trumps-china-trip.html",
+          "title": "Trump arrives in Beijing with CEOs ahead of Xi meetings",
+          "link": "https://www.cnbc.com/2026/05/13/trump-china-xi-beijing-meeting-ceos.html",
           "source": "CNBC Top News",
-          "time": "Wed, 13 May 2026 04:14:25 GMT",
-          "summary": "The U.S. chipmaker executive was not included in earlier lists of business leaders participating in President Donald Trump's trip to China this week."
+          "time": "Wed, 13 May 2026 12:51:24 GMT",
+          "summary": "The president landed in the Chinese capital for a highly anticipated summit with Xi Jinping."
         },
         {
-          "title": "Jamie Dimon warns JP Morgan may rethink new London office if 'very smart' Starmer is ousted as UK PM",
+          "title": "Jamie Dimon warns JPMorgan may rethink new London office if 'very smart' Starmer is ousted as UK PM",
           "link": "https://www.cnbc.com/2026/05/13/jamie-dimon-says-jp-morgan-may-rethink-london-office-if-starmer-ousted.html",
           "source": "CNBC Top News",
-          "time": "Wed, 13 May 2026 07:39:21 GMT",
+          "time": "Wed, 13 May 2026 11:40:51 GMT",
           "summary": "Starmer's leadership is under pressure, sparking concern in the bond market."
         },
         {
-          "title": "It's not just Iran and oil raising inflation. Prices also are reaccelerating in these other areas",
-          "link": "https://www.cnbc.com/2026/05/12/iran-oil-energy-inflation-shelter-food-trump.html",
+          "title": "Alibaba's core profit plunges 84% even as AI and cloud growth accelerate",
+          "link": "https://www.cnbc.com/2026/05/13/alibaba-earnings-march-quarter-ai-cloud-growth.html",
           "source": "CNBC Top News",
-          "time": "Tue, 12 May 2026 21:04:59 GMT",
-          "summary": "Here's some of the places where prices are rising fast for consumers."
+          "time": "Wed, 13 May 2026 12:10:05 GMT",
+          "summary": "Alibaba on Wednesday said its core profitability plunged in the March quarter amid heavy investments in tech and e-commerce."
         },
         {
-          "title": "CNBC's UK Exchange newsletter: Starmer’s EU push faces a harsh political reality",
-          "link": "https://www.cnbc.com/2026/05/13/uk-keir-starmer-eu-reset-local-election-vote-brexit.html",
+          "title": "Here are Wednesday's biggest analyst calls: Nvidia, Apple, Micron, Amazon, AMD, Johnson & Johnson & more",
+          "link": "https://www.cnbc.com/2026/05/13/wednesdays-big-stock-calls-by-wall-street-analysts-include-nvidia-apple.html",
           "source": "CNBC Top News",
-          "time": "Wed, 13 May 2026 05:30:01 GMT",
-          "summary": "U.K. Prime Minister Keir Starmer has alighted on resetting relations with Europe as a way of reviving his flagging popularity."
+          "time": "Wed, 13 May 2026 12:32:41 GMT",
+          "summary": "Here are the biggest calls on Wall Street on Wednesday."
         },
         {
-          "title": "Stock market today: Nasdaq, S&P 500 fall as CPI inflation rises, chip stocks drop - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYkZpT0RRZmRuS0NLREZqeDFyd2NJNnh4Q1VYRHNiQ0plenlSa2lYdjU5RjZDR0NPcm5hbFF1VFhiNWhsNExYNHptUm5xdGNXaV9aZXVTNXFtN3QwR2oyYlZRWEt5NVdhYXVoZGJIYjlRNGY2X2NXd3o5bnMzOEh2X1g1TVhaZG9rNWt6VFptQlJza2l3TzRsWUE5emZkTW51YXlFcUVLMkVBY1J5QXI4ZXpDTG1oSUZoTVpKN3RtRGV3MDBodUV2UlNUVnhjLTkzbTBJ?oc=5",
+          "title": "Stock market today: Dow rises, S&P 500 and Nasdaq retreat on hot inflation print, tech sell-off - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYmk1STVwWkVMbjhXdFVqZ25HWmU3akx5cXpqSDJLSmgzbkl3ZTZmQ2lXOFpuTC16ZnBzSlV0UmVFTnFudUJnV2phbEJ6ZVpKZFc1bTlOcms5enpId0NVeG9pbzZ4UHd4eEU1eGZkcGdRejhwUlo5RTZTRWlla0dEUXdaT0k1MFEwczEtUVpJNWVUVU8zR1VNMUFGMW0wWEpvUGp2cTdxRWxUdGJmOGdSV0pDUUxUQUlHS1hlVmVRNUlIXzV4VDJiRVFmUFhuR0wtdFdGbDRkbkprS3RtNEE?oc=5",
           "source": "Google News US Stocks",
-          "time": "Tue, 12 May 2026 17:33:01 GMT",
-          "summary": "Stock market today: Nasdaq, S&P 500 fall as CPI inflation rises, chip stocks drop  Yahoo Finance"
-        },
-        {
-          "title": "Markets News, May 11, 2026: Stocks Start Week Higher as S&P 500, Nasdaq Set New Records; Oil Rises as Trump Calls Iran Peace Plan Response 'Unacceptable' - Investopedia",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV1U3bjUzME12WVhNT2dwamkxUTR4emJqeFdLbDV3bFZob2tpc0ZhbGdydUtCRVUyRjVQbm0zRmZqdmJWbnhfQW5RYkNGV1F3c1drZWI4UzY0Qi11TXRwVDlwdnItTGpYTWlJdW10bnNmd19oV1NnYnZiZ3JfSlFJSU9tR1VsU0JPVEFpQTBFTEI?oc=5",
-          "source": "Google News US Stocks",
-          "time": "Mon, 11 May 2026 20:14:56 GMT",
-          "summary": "Markets News, May 11, 2026: Stocks Start Week Higher as S&P 500, Nasdaq Set New Records; Oil Rises as Trump Calls Iran Peace Plan Response 'Unacceptable'  Investopedia"
+          "time": "Tue, 12 May 2026 20:06:18 GMT",
+          "summary": "Stock market today: Dow rises, S&P 500 and Nasdaq retreat on hot inflation print, tech sell-off  Yahoo Finance"
         },
         {
           "title": "U.S. Stock Market on Wednesday: Dow Jones, S&P 500, Nasdaq to bounce back or Wall Street crash is happenin - The Economic Times",
@@ -75,39 +68,46 @@
           "summary": "Stock market today: Nasdaq, S&P 500, Dow futures fall as Wall Street braces for CPI inflation data  Yahoo! Finance Canada"
         },
         {
-          "title": "Tech Rebound Lifts Stocks as Oil Rally Hits Pause: Markets Wrap",
+          "title": "US Stock Market Today | Dow Jones | Nasdaq Highlights: S&P 500, Nasdaq end lower as inflation, Iran tens... - The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOMkkzeDB3bTZrMlN1emcyakFKMUVWQ3AxMFlhclowQm10SHVnMXRfSVlOX1JSSTdRT01xVERZeEF6U2pRTXhEbFdlLTlMX1RMLXRLTGR2SnhvM2U1WVpkSFdQUncyT01xd0xfX2k4aGxySkwweUdXQ2lCbHVBR08zbk5QZXFaOElnYlBRbWVhRm1uOXN2Ymd5TmtTV3k0MVRWbEJNMXV4S1FzZ1U4T19rWWp3LWJmSk1OYk5yVUdtRkdRWElpOVhWOFVnUmNiUDBIbm9PNTJaV2JERkZ2TVBaZzVpZUt2NXY2Z2w2UGlneE96Slg5ZEgzSThyQ2tyM3h5QlphaFhOZjdmUGNkN1NZUGkxdXBwQ2k0ZlRycUN4bzNYT1FweGpLTVJwMTBIMlZqVk1Z0gG4AkFVX3lxTFBjNm5hZUptZVpZT0pKWFRrb3AwYlJUUExBZE9XT1VJSUg5RVF6U0FkbWo5bGduTy1PTHpMNVdnNjBRZGh4d3F6YkRnUFc1YXpOZlU3NzdXOVFwMWdfdEo4MkgxdGdGa2dGd21OWFRrUFRwUnJsTGlrYUxNNHBqMnhRYmJyd08xaWxEV2gyMGpDUTF4b3dnekJzNEVFdk1iTnBrcVgwblMwVzkzaWh3V1dNZ2YwS3IyZjUzZEFEREpnOWtSSU80OFFOVnJvVUE0Ti0xc3A5Y2RyU3ZiNWZ5eFFqWjdRV1lxR01RV2E4TTRqMEdOVXNJZWFHSzJ0X1FPOENYd19ZQTAwbFlxMjlrUV9aUjd5Vkd5cWdkZVJ1b3FZQTlYbzZvcEJ5SndvdmVESW8zNFk3ZXdRUA?oc=5",
+          "source": "Google News US Stocks",
+          "time": "Tue, 12 May 2026 20:06:18 GMT",
+          "summary": "US Stock Market Today | Dow Jones | Nasdaq Highlights: S&P 500, Nasdaq end lower as inflation, Iran tens...  The Economic Times"
+        },
+        {
+          "title": "Bond Yields Rise and Stocks Fall on Inflation Data: Markets Wrap",
           "link": "https://www.bloomberg.com/news/articles/2026-05-12/asian-stocks-under-pressure-as-us-inflation-rises-markets-wrap",
           "source": "Bloomberg Markets",
           "time": "Tue, 12 May 2026 22:08:25 GMT",
-          "summary": "Dip buyers drove technology stocks higher, with traders betting that a record-breaking rally in chipmakers has further room to run. Oil broke a run of three straight daily gains even as the Strait of Hormuz remained shut."
+          "summary": "A resurgence in inflation drove stocks and bonds lower on speculation the Federal Reserve will keep interest rates higher for longer as the war in Iran boosts energy costs."
         },
         {
-          "title": "Gulf Shipping Standoff Hits World’s Most Vulnerable Farmers",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-13/strait-of-hormuz-shipping-standoff-hits-world-s-most-vulnerable-farmers",
+          "title": "Oil Holds Near $108 With Mideast Impasse, World Inventories Drop",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-12/latest-oil-market-news-and-analysis-for-may-13",
           "source": "Bloomberg Markets",
-          "time": "Wed, 13 May 2026 04:15:10 GMT",
-          "summary": "Malawi is an extreme example of the impact on food security from the upheaval in the fertilizer market from the Iran war."
+          "time": "Tue, 12 May 2026 22:03:44 GMT",
+          "summary": "Oil largely held its 8% surge over the past three sessions, as Middle East tensions simmer and global stockpiles shrink at a record pace."
         },
         {
-          "title": "IEA's Bosoni Says Oil Inventories Falling at 'Record Pace'",
-          "link": "https://www.bloomberg.com/news/videos/2026-05-13/iea-s-bosoni-says-oil-inventories-falling-at-record-pace-video",
+          "title": "North Sea Oil Fetches Discount for First Time During Iran War",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-13/north-sea-oil-fetches-discount-for-first-time-during-iran-war",
           "source": "Bloomberg Markets",
-          "time": "Wed, 13 May 2026 08:35:20 GMT",
-          "summary": "International Energy Agency oil industry and markets head Toril Bosoni discusses the outlook for oil supplies and prices amid the ongoing disruption in the Strait of Hormuz. Inventories are falling around the world at a record pace, the IEA said in its latest monthly report, and will continue to drop for months as the Middle East conflict continues. Bosoni speaks on Bloomberg Television. (Source: Bloomberg)"
+          "time": "Wed, 13 May 2026 12:45:28 GMT",
+          "summary": "A North Sea oil grade that’s central to setting the world’s most important physical crude price traded at a discount for the first time during the Iran war, as immediate fears ease of a supply shock in Europe."
         },
         {
-          "title": "China AI Stocks Surge as Huang’s Visit Boosts Nvidia Supply Bets",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-13/china-ai-stocks-surge-as-huang-s-visit-boosts-h200-supply-bets",
+          "title": "US 10-Year Treasury Yield Hits Highest Since July After PPI Data",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-13/us-10-year-treasury-yield-hits-highest-since-july-after-ppi-data",
           "source": "Bloomberg Markets",
-          "time": "Wed, 13 May 2026 07:48:19 GMT",
-          "summary": "Shares of Chinese AI model developers surged, reflecting bets that Jensen Huang joining President Donald Trump’s trip to Beijing may help widen access to Nvidia Corp.’s advanced chips."
+          "time": "Wed, 13 May 2026 12:39:56 GMT",
+          "summary": "The yield on benchmark 10-year Treasuries rose to the highest since July after US wholesale inflation accelerated in April to the fastest pace since 2022."
         },
         {
-          "title": "French Jobless Rate Jumps Above 8% for First Time Since 2021",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-13/french-unemployment-jumps-above-8-for-first-time-in-five-years",
+          "title": "Iran War Tests Turkish Central Bank’s Ambitious Inflation Target",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-13/iran-war-tests-turkish-central-bank-s-ambitious-inflation-target",
           "source": "Bloomberg Markets",
-          "time": "Wed, 13 May 2026 05:30:00 GMT",
-          "summary": "French unemployment unexpectedly rose to the highest level in five years, adding to signs the euro area’s second largest economy was already on a weak footing when the Iran war began."
+          "time": "Wed, 13 May 2026 12:39:01 GMT",
+          "summary": "A global energy price shock sparked by the US-Israeli war on Iran is forcing Turkey’s central bank to raise its inflation forecasts, putting further strain on the country’s efforts to slow price gains."
         }
       ]
     },
@@ -120,6 +120,13 @@
           "source": "Google News Japan Stocks",
           "time": "Wed, 13 May 2026 07:03:24 GMT",
           "summary": "Japan stocks higher at close of trade; Nikkei 225 up 0.94%  Investing.com"
+        },
+        {
+          "title": "Stock market today: Nikkei, FTSE edge up as S&P 500 retreats from all-time highs, Nasdaq sinks - Economy Middle East",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZFh2X2ZmN0Z2S1lIM19XMmhMUVNtLThMdF8xb0x5VzBZYVpBLWd3eU5WRnBVQko2LS1DbDk3WDFucko2NTQyMGVUX0Fkd2hNMWRFaXZDLUtHVm1QNHNlN2V0enRKaWNGa1RXeWhUY2Z3ankxQmVxa3piTzVIQTI1WWxBNS1Lbk8xOU1Bdl9YZ1VqZmxZZEJuc09peGpydHhPdGNHLVplN0RsLUVtVlNqWHVXbUdpQlEtVlp5NlRkMWlaS0V2?oc=5",
+          "source": "Google News Japan Stocks",
+          "time": "Wed, 13 May 2026 10:04:29 GMT",
+          "summary": "Stock market today: Nikkei, FTSE edge up as S&P 500 retreats from all-time highs, Nasdaq sinks  Economy Middle East"
         },
         {
           "title": "Japanese investors sell foreign stocks in April as energy costs rise - Reuters",
@@ -136,13 +143,6 @@
           "summary": "Tokyo Market Summary: Nikkei Average Continues to Rise, Hitting New Record Highs; Kioxia Extends Winning Streak to 5 Days. Musashi Seimitsu Soars on Expectations of Increased Capacitor Demand. Furukaw..."
         },
         {
-          "title": "Asia markets mixed as investors watch Trump-Xi meeting and Iran tensions - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN203dGVkOXplZUJDb2tiX1VYVlVodmdRUld6LUhlMWQyWHR3aXhGRzFFUHUwa1N2MEMzTndtc1BGMl9MTGJPRERDWEJERk9JMU9nd010aTVnb2tvbTVSekE5NGNDM2FBVnNZN3JrdTdpOWRjN2J6eFVETGR6WHhRXzR5MW9XRWpUUjNoSEQ4NXpqUndESl9IZ3NCWXkxN3dleXRxWU96ZFd0R2s4eTVv0gG0AUFVX3lxTE1MdElyTHFaQXluRElkR0Fob2FqOUdnYTlwNHRrNlYwMWlXc1Nnd3prczMtcEhwOXlmWTVRd25zcEY4NmNWQ2lYS0tQUnJXcXNEaHdUdEdtbW81UUtjamh2aW5wcEl0N1llZk5JN2dvQUVzRU1kOUhYcEdXNVo1YUZKeEdvV05LY3M2dmJWTEc3Q0J4VGc4aU5oUDZBWlY5QWx4ZUM1bmY5RGZHTUMtMDU4V2RJeQ?oc=5",
-          "source": "Google News Japan Stocks",
-          "time": "Tue, 12 May 2026 23:51:02 GMT",
-          "summary": "Asia markets mixed as investors watch Trump-Xi meeting and Iran tensions  CNBC"
-        },
-        {
           "title": "Nikkei launches new stock index tracking Japan's entertainment industry - Nikkei Asia",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV1dHbnNGdTBwSU1TaHhaeTJLeDlfQm0wVEJaWFo0VW5HbWJxVGJ5TzNHamNPa3lNSjJPOFNscVZ5VktGRS00aE1UeS0ycVdLR3ZKS2JqY00tMUVrdWZDS3pKRk9FUkJFMnNLeG13NzNuUkR2M25nbDljV1FRdUFNOWxobm9PRk40WXhnak1ITVpEd2hqTWhRdXlfNWI3TUhjM2FwYmpZTHM5S1lwNEE?oc=5",
           "source": "Google News Japan Stocks",
@@ -155,18 +155,18 @@
       "title": "🇰🇷 韓國股市",
       "items": [
         {
-          "title": "Why the World’s Hottest Stock Market Got Derailed by Talk of an AI Tax - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iYmFlOFpHUGw0SzlmY1lqZkRQN05oYlBYVmZ1eWV6Nmlja2ZxSjNJRTlEd3JuLXpPNm9wUFpMVmg3bnY3UzJTWkJwaG4tUDlKcmJoTXdwZ3RpTkVPUTVlUkk3OXBEaTloa3JvY1hQZVlYUFJtRkE?oc=5",
-          "source": "Google News Korea Stocks",
-          "time": "Tue, 12 May 2026 12:39:00 GMT",
-          "summary": "Why the World’s Hottest Stock Market Got Derailed by Talk of an AI Tax  Barron's"
-        },
-        {
           "title": "Asia's trillion-dollar titans are powering — and distorting — its fastest growing stock markets - CNBC",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ0xXZEFYTnlPVWgyRDdBZzFWUGw1V0FmNkNxdlZOaFRIVlFsS1NCcjAzUW5DNWpIRWZ0TDlJT1BzRmNQMHFoZG5jVkRtLVRYY1I0RDR1MmdSTWZzN0F0YWpCZzJMSUFwcWNpRGotbzRibXgxRUlyeWxJVmRTSUh4UUFVRDBxcDhCOUJWRWRfVnh3TGMyWDl3YlRJTDlTOE9sam1pTFJEaUhCZHAwbnhwTEZtZWNoUHcyV3fSAb8BQVVfeXFMTi1aVEJnSmd0OVF1VFZjZmFsbnRXMThWa242czBSRmQ5UXBuQXd1VjJTTG5tTnFrU3Z4d0pKYmtVME5zc3l2dzNjRmg5ODFJLTM5aFk4eWhzQms2MmYya1lqVWdMeDF3TV9UdkRzaTZBZWRoTDZsXzRsbk1qRFpQNmNkdDhxbFFjbkZGeFpyUlRLNmdnQWJoNE5xZjJTbmQ1dFJzVWg3b09SaWU0RV9VYmVkX0dlZDcyUUNFa1lCU1E?oc=5",
           "source": "Google News Korea Stocks",
           "time": "Tue, 12 May 2026 04:43:14 GMT",
           "summary": "Asia's trillion-dollar titans are powering — and distorting — its fastest growing stock markets  CNBC"
+        },
+        {
+          "title": "Why the World’s Hottest Stock Market Got Derailed by Talk of an AI Tax - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iYmFlOFpHUGw0SzlmY1lqZkRQN05oYlBYVmZ1eWV6Nmlja2ZxSjNJRTlEd3JuLXpPNm9wUFpMVmg3bnY3UzJTWkJwaG4tUDlKcmJoTXdwZ3RpTkVPUTVlUkk3OXBEaTloa3JvY1hQZVlYUFJtRkE?oc=5",
+          "source": "Google News Korea Stocks",
+          "time": "Tue, 12 May 2026 12:39:00 GMT",
+          "summary": "Why the World’s Hottest Stock Market Got Derailed by Talk of an AI Tax  Barron's"
         },
         {
           "title": "Stock market today: Dow futures dip on $100 oil, South Korea AI news; CPI inflation data due (live coverage) - MSN",
@@ -183,11 +183,11 @@
           "summary": "South Korea's stock market is hotter than ever — and Goldman Sachs says it still has lots of room to run  Business Insider"
         },
         {
-          "title": "Dow Jones Futures: Techs Fall On $100 Oil, South Korea AI Comments; CPI Inflation Due - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORFF1d2dFQ2s5QVR2ODk1WlVCZVNUT2Q4bWk5NmhiVlJnVDlkVWhQMEVvRDNxaDlOSk5odGdhOFBHNjZJZkl6RFdndTFweWJoRFpneDVHZEhjWURIbjhwSkRyZy1aSUE1cWFlWC1DMmFWUnpLRG5yMWFIZGEwc2pGYnFIZnFGSl9Ec3pIOVJLc2puSU4zNlVINU4tdFFxeXRmR2E2THV5OXFJUTl5Y3JXYVVscjU1dmlfYy1GZ25SY05yUWhpOERDRmpVd1Y0eXdwZXc?oc=5",
+          "title": "Korea Surpasses Canada as World’s Seventh-Largest Stock Market - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeVpBVDhpWHhjVlNfODRQRWMtRUdTeEktbmJkVC1vVWxBTGp2Z3FvMmhfYklkVk1xd1Z0QVNoMC02NUJwV1gxbWZ2MGxvaERwR1NjWW5BbkQtczRhTi1SdllLTFVqVkN5ZWU0aDZySUx0MTQwQjU5amhVbEY0aHNtY2pnY3dsNkNQUHlEbXdhLXFUdVhFWksyMHdXY0lJR1NmZ19HTVF3VTZUOWZDSWJwYnRrNA?oc=5",
           "source": "Google News Korea Stocks",
-          "time": "Tue, 12 May 2026 12:16:00 GMT",
-          "summary": "Dow Jones Futures: Techs Fall On $100 Oil, South Korea AI Comments; CPI Inflation Due  Investor's Business Daily"
+          "time": "Thu, 07 May 2026 01:15:00 GMT",
+          "summary": "Korea Surpasses Canada as World’s Seventh-Largest Stock Market  Bloomberg.com"
         }
       ]
     },
@@ -195,11 +195,11 @@
       "title": "🇪🇺 歐洲股市",
       "items": [
         {
-          "title": "European markets to open higher as focus returns to earnings; Siemens unveils $7 billion buyback - CNBC",
+          "title": "European markets rise, UK gilts in focus as PM Starmer faces calls to quit - CNBC",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaEkxVUY1N2p0dGViN2NkZDNuTEYyUlJjemJrdVRUOTNuZ2FqYnJoWE9lMXM5SmlwaEU0eTdMOWZrek1TSGFObElHbFYwQWwzSGI4R3JYdVNiVDZhWmpaNmR2R003STI5aENJNmJzNDU3Zi1PdlUzS0EwNGNLSU9zbWFRRkM2Zlc0OWpqMDJwaEpWSXBSVFJkaDZZVjBFakVQaWfSAacBQVVfeXFMTUpEWGtZem5rVnNqWF81YTBhd0RYZFhndDJPcGV2WXNWZmVSZ0JGZXVsNUFlN1UzeHpZc3BLaFJHbUZfd1dqUHU0N21mMVJ6MWdGZzVhWFhDc2FqYWxnU3pwazAtQ3NIc1hhWWNNMWVBQ1hrY1AtcFl2d3gyZkhhYnJZUzUxbzYzQVYtQ0ViRDV4VDdQejFrSi1KYVBOYTdRWk5NZ3FnNEk?oc=5",
           "source": "Google News Europe Stocks",
           "time": "Wed, 13 May 2026 05:42:43 GMT",
-          "summary": "European markets to open higher as focus returns to earnings; Siemens unveils $7 billion buyback  CNBC"
+          "summary": "European markets rise, UK gilts in focus as PM Starmer faces calls to quit  CNBC"
         },
         {
           "title": "STOXX 600 falls as fragile Middle East ceasefire dents risk sentiment - Reuters",

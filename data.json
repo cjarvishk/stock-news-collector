@@ -1,15 +1,29 @@
 {
-  "timestamp": "2026-05-14 00:58 (HKT)",
+  "timestamp": "2026-05-14 05:05 (HKT)",
   "sections": [
     {
       "title": "🇺🇸 美國股市",
       "items": [
         {
+          "title": "Kevin Warsh wins Senate confirmation as the next Federal Reserve chair",
+          "link": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html",
+          "source": "CNBC Top News",
+          "time": "Wed, 13 May 2026 20:38:20 GMT",
+          "summary": "In the most divisive vote ever for a Fed chair, Warsh, 56, won confirmation to take over for Jerome Powell."
+        },
+        {
           "title": "Trump arrives in Beijing with CEOs ahead of Xi meetings",
           "link": "https://www.cnbc.com/2026/05/13/trump-china-xi-beijing-meeting-ceos.html",
           "source": "CNBC Top News",
-          "time": "Wed, 13 May 2026 16:19:08 GMT",
+          "time": "Wed, 13 May 2026 17:54:39 GMT",
           "summary": "The president landed in the Chinese capital for a highly anticipated summit with Xi Jinping."
+        },
+        {
+          "title": "Cisco's stock pops 15% on surging AI orders, as company says it's cutting almost 4,000 jobs",
+          "link": "https://www.cnbc.com/2026/05/13/cisco-csco-q3-earnings-report-2026.html",
+          "source": "CNBC Top News",
+          "time": "Wed, 13 May 2026 20:48:06 GMT",
+          "summary": "Cisco's AI story has finally started resonating with Wall Street, with the stock hitting a record late last year and continuing to rally in 2026."
         },
         {
           "title": "Wholesale inflation jumps 6% in April on annual basis, biggest increase since 2022",
@@ -19,25 +33,11 @@
           "summary": "The producer price index was expected to increase 0.5% in April, according to the Dow Jones consensus."
         },
         {
-          "title": "Altman details Musk's OpenAI fallout, says nonprofit was 'left for dead'",
-          "link": "https://www.cnbc.com/2026/05/13/altman-musk-trial-testimony-takeaways.html",
+          "title": "This low-profile stock in the semiconductor supply chain has doubled this year. Wall Street still loves it",
+          "link": "https://www.cnbc.com/2026/05/13/this-semiconductor-supply-chain-stock-has-doubled-wall-street-still-loves-it.html",
           "source": "CNBC Top News",
-          "time": "Wed, 13 May 2026 14:35:50 GMT",
-          "summary": "Musk has accused Altman and another OpenAI co-founder of trying to \"steal a charity\""
-        },
-        {
-          "title": "S&P 500 hits another record driven by tech alone as most stocks decline on the day: Live updates",
-          "link": "https://www.cnbc.com/2026/05/12/stock-market-today-live-updates.html",
-          "source": "CNBC Top News",
-          "time": "Wed, 13 May 2026 16:52:03 GMT",
-          "summary": "The Dow Jones Industrial Average fell on Wednesday after another hotter-than-expected inflation report."
-        },
-        {
-          "title": "Stocks making the biggest moves midday: Akamai Technologies, Micron, Nebius, Alibaba & more",
-          "link": "https://www.cnbc.com/2026/05/13/stocks-making-the-biggest-moves-midday-akam-mu-nbis-baba.html",
-          "source": "CNBC Top News",
-          "time": "Wed, 13 May 2026 16:21:05 GMT",
-          "summary": "Here are the stocks making headlines in midday trading."
+          "time": "Wed, 13 May 2026 18:04:34 GMT",
+          "summary": "Across the board, Wall Street analysts are bullish on Qnity Electronics and have raised their price targets on the stock."
         },
         {
           "title": "Stock market today: Dow rises, S&P 500 and Nasdaq retreat on hot inflation print, tech sell-off - Yahoo Finance",
@@ -47,6 +47,13 @@
           "summary": "Stock market today: Dow rises, S&P 500 and Nasdaq retreat on hot inflation print, tech sell-off  Yahoo Finance"
         },
         {
+          "title": "S&P 500 ekes out a gain for first close above 7,400 despite another Iran setback: Live updates - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kZjhBOWtVbkdRSGhDazIxZnFoaFY3S3ZVdWFIMWxEalRaeEVhb1g2VWJKcFhVeVdnRC1UN19HdU1TM3dYVm1KeGFLUFhUMDF6NjNFZXNtbjIxNXJOaEZsY0FCSE5NT3FTQmEyUE5melNxUHZDR0V3?oc=5",
+          "source": "Google News US Stocks",
+          "time": "Mon, 11 May 2026 20:45:00 GMT",
+          "summary": "S&P 500 ekes out a gain for first close above 7,400 despite another Iran setback: Live updates  CNBC"
+        },
+        {
           "title": "U.S. Stock Market on Wednesday: Dow Jones, S&P 500, Nasdaq to bounce back or Wall Street crash is happenin - The Economic Times",
           "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNbmo5c3hyY24wek5UZWd1dm1LU0U1RG1pdWZtWDVfQmItS1RxckRLTkJELUV2bEMzc2pkMG9CeU1xMHRSSmFtckROZWxBaTR3WlF1WEVWOHpCTTlqU3BsRFdxNjVCSDIxamxWZ1NtaUZjb3JhSWtDRmx5VjNXLWVjTjZRUmlwb2xvQTlySWswVFNhZVlTWFcwanp2QllIbllZdk1YRE5NcVVqbGNITHp5Nzl0S1llYU9NR0Z6TUxUWnV0M2IybGxtUnZVdzR3MmtQNmpPOXc5TlpEX2NvRzNqMGtKM2x5bzdkRFlzUUhTeEMyWVgyX1JMZW5pcEhtSjFCU3A0NjVnVGNzUmNXQnB3SS02blVQNmd1VG5wc0l3MlpIUERVeXdvcXNn0gGvAkFVX3lxTE1TYVdQTy1nMWR4SGRITDJUTzRVVUlPd0FOanVXVkpza3puVEZsNVAtUUtydHV2elBudXhIQW9pLWRzZ3NMU1hlbHJHbnIyaW85UVB3aXVsUjVyWTVKRE15b2RhdFJESmtZTGpyN2NuaGpSbTZ2eGlIVXVPNHZNZlN6cWlTQ1Y5d0dJLWo4OHFfX2hkYWd3UkNtSDZpbTE2UlRiRGxLQ09TSm5YQWhMZWE3ZDU4STNmNnczUk90dHJMSkU2N2xSQnlmUGpyV1hCaTdEWko3bU1xa3pZZVFkaFVuVDhEMmZVY0t4bFZDZ21ZNmVSQWQ5My0zeE1OTVR5NjBfTlkxNzNYTnRkdlNFNnpNMnhJa29xNmthLUFDSlJDcUlydl9YN3B1SzdyRWhURQ?oc=5",
           "source": "Google News US Stocks",
@@ -54,11 +61,11 @@
           "summary": "U.S. Stock Market on Wednesday: Dow Jones, S&P 500, Nasdaq to bounce back or Wall Street crash is happenin  The Economic Times"
         },
         {
-          "title": "Stock market today: Nasdaq, S&P 500, Dow futures fall as Wall Street braces for CPI inflation data - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMW94M2kxSE1lZEh0cXNRMmpjam1OalZTZ3dmS0hYdjlHNlhCSkhnbWpib1M4dHcxRGl1UnFJY0FfdnlPOTdOc0lqQ3Q4UjRtaGxRQ1RpUzVwZW56MEZpRGVBSFNhb1NTYV90OEFwMXU3Q2V3WDlGbC1xUlNhc1BWcGY1NjRsRlE1QzhWRzA2OERtWk5YMFRlS2pYYV9fNm1nTFVCbExuZ2tlN2lSQ0JNNHBQR2FLSkU1Y00yRzdubVlLX3RFa1phakNESXYwQjhRaDNmUg?oc=5",
+          "title": "Stock market today: Dow slides, S&P 500 and Nasdaq rise as PPI inflation data comes in hot - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb1ZIOEtzT3UzR25Obm5senNVSkQ2X2VEZ0JVanVlNjdHdlZrX2hjUVhSSW05TTBDVWJMbkVvSWZ6TElJZVZhNWNNS0R3T0dIMXQ3ZDlPUUMyUFcwUGJYYktja0tzdWxka19jN2pyS0FDZ0xDN1BDOVlPMUstbWZWakZjY0RCOWpHNDV5VDhGd25oUnZuS3UyVkRKd0xxdFY3SjUwdXlDOWphZ3dLX2V6UGxfbFp4Y1UtaUFneElSWVNwbTRleDgxcEhMenVveGJ2aUYzdQ?oc=5",
           "source": "Google News US Stocks",
-          "time": "Tue, 12 May 2026 12:45:23 GMT",
-          "summary": "Stock market today: Nasdaq, S&P 500, Dow futures fall as Wall Street braces for CPI inflation data  Yahoo! Finance Canada"
+          "time": "Wed, 13 May 2026 19:01:26 GMT",
+          "summary": "Stock market today: Dow slides, S&P 500 and Nasdaq rise as PPI inflation data comes in hot  Yahoo Finance"
         },
         {
           "title": "Stock market today: Dow rises, S&P 500 and Nasdaq eke out records as chip stocks extend gains - Yahoo Finance",
@@ -68,46 +75,39 @@
           "summary": "Stock market today: Dow rises, S&P 500 and Nasdaq eke out records as chip stocks extend gains  Yahoo Finance"
         },
         {
-          "title": "US Stock Market Today | Dow Jones | Nasdaq Live: S&P 500 holds near highs as tech strength offsets hot in... - The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQajlXNHpqWU9NODFONEtjUklPWGktUzBQTmtpT1U4dWdtRlJKYmpWQ2U1VmxlbVQ1bGpad3k5aWVhQ1E5WFprQnZRc2IyNVhFRkwtT0x2dmp0R0pYMWNMRkFyVXlTaUtkNnV5UmZVcjI4Mlp2Z2VHNzFqUGpYQzFOWld6QmN0d3JHb3o2Vng0MU1HMVAxYTdzcU1tYkZTVTNQbTlzaUlkQlBlQmcxUFhMYkNncWdkQ1ZNdzR2WU1zVkZwM0szVUZYR3gwX3BSeDllXzF4NDhvMEVabS1NYWNRYjZEMlVHQkRlejUtanZCU3VfOTdxcHhxdUJ4YU5GMmtEUVdHLXZwN0dDQUc3TzVKYmE5dktiQ3ZNOGZPUlhuaDhYVWFRcVhkM3FieHNGQUlHWnFwQkZBQU5sRmpDMFRjTlNINVVKZzJWS3l1THJQaVBobWNoSHdSSDlBSlJYQVBxNXptLTBUeUhIRGJpSDdKRmFfbmlhaHFNSjlYMktTR0xRcUVwZ0ZfaUFVX1E5NDNjWGtv0gGYA0FVX3lxTE9MSTBsZGNjUW1jc2FTQWw5NFlSUW1TTVE3eDZHTGcxdXA1cG1PS1NaUW54Slh4MU1KNDF4ZDRETU8wTElGMHpDZXJjbldjYlpWb1ExcU9wUjdhUzczTFl2SlpKSXlQekw0N3ItSGh1dGFTc3B0NkRLM1dicDdrUzB6UHdlUU5ibWIwdkxCdEdrd3BiMWV1aF9vaW1SWll3LVh4ZXpCYkJGejFfTUNrN1VQTG1MSTRmdmc1T2N0djROekkwQmJRZThMMXdSZVhlakVfRFFqOFllQUhiREZZSENhZ2ppR3M5azVsMTU1YWtxVUN4NENTbTluVnE5eUhUMGhoVllTT0NiUks4UUhjZWhlN1JGeDNQdlNQSFBaWi00bDVRZ0d1Q0hNV2Y4WGhtSUY0Y2w2LVdtVm44bUZSNUVwWmNIdzVyeXBtTm1DNUVVbG1mRUF5aHlTUDdPMC1xYmJhdEdBMTlpQ2t2Z20yR1cxcDVyTG0wd21yRG1uVjMwMUNJR2xCa2tWdXZXLU5LbU9hcjI1RlpzRw?oc=5",
-          "source": "Google News US Stocks",
-          "time": "Wed, 13 May 2026 16:40:00 GMT",
-          "summary": "US Stock Market Today | Dow Jones | Nasdaq Live: S&P 500 holds near highs as tech strength offsets hot in...  The Economic Times"
-        },
-        {
-          "title": "Mexico Outlook Changed to Negative at S&amp;P as Debts Mount",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-12/mexico-rating-outlook-revised-to-negative-at-s-p-as-debts-mount",
+          "title": "AI Good for Media IP: Citigroup's Mohr",
+          "link": "https://www.bloomberg.com/news/videos/2026-05-13/ai-good-for-media-ip-citigroup-s-mohr-video",
           "source": "Bloomberg Markets",
-          "time": "Tue, 12 May 2026 21:40:00 GMT",
-          "summary": "S&amp;P Global Ratings revised Mexico’s credit outlook to negative from stable, citing persistently weak fiscal results, rising debt levels and weak economic growth."
+          "time": "Wed, 13 May 2026 20:28:07 GMT",
+          "summary": "Christina Mohr, global chair of M&amp;A at Citigroup, and Ian Nussbaum, partner at Latham & Watkins, join Dani Burger and Michelle Davis on \"Bloomberg Deals.\" (Source: Bloomberg)"
         },
         {
-          "title": "Tech Rally Lifts Stocks Despite Inflation Pickup: Markets Wrap",
+          "title": "Geothermal Firm Fervo Soars 35% After $1.89 Billion IPO",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-13/geothermal-energy-firm-fervo-rises-33-after-1-89-billion-ipo",
+          "source": "Bloomberg Markets",
+          "time": "Wed, 13 May 2026 17:13:40 GMT",
+          "summary": "Fervo Energy Co. shares jumped 35% in their trading debut after the geothermal energy developer raised $1.89 billion in an upsized US initial public offering."
+        },
+        {
+          "title": "Ford Shares Take Biggest Leap Since 2020 | Closing Bell",
+          "link": "https://www.bloomberg.com/news/videos/2026-05-13/ford-shares-take-biggest-leap-since-2020-closing-bell-video",
+          "source": "Bloomberg Markets",
+          "time": "Wed, 13 May 2026 20:25:15 GMT",
+          "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld, Carol Massar and Tim Stenovec. (Source: Bloomberg)"
+        },
+        {
+          "title": "Stocks Get Tech Boost to Hit Fresh All-Time Highs: Markets Wrap",
           "link": "https://www.bloomberg.com/news/articles/2026-05-12/asian-stocks-under-pressure-as-us-inflation-rises-markets-wrap",
           "source": "Bloomberg Markets",
           "time": "Tue, 12 May 2026 22:08:25 GMT",
-          "summary": "A rally in the world’s largest technology companies fueled gains in stocks, overshadowing data showing a resurgence in inflation that sent bonds lower on concern the Federal Reserve will keep rates higher for longer."
+          "summary": "A rally in technology giants drove stocks to all-time highs, overshadowing data showing a resurgence in inflation that has fueled wagers the Federal Reserve will keep rates higher for longer."
         },
         {
-          "title": "Fed's Collins Favors Keeping Rates on Hold for ‘Some Time’",
-          "link": "https://www.bloomberg.com/news/videos/2026-05-13/fed-s-collins-favors-keeping-rates-on-hold-video",
+          "title": "Nvidia Chips, Boeing Jets: Stock Traders Eye Trump in China",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-13/nvidia-tesla-shares-advance-as-ceos-join-trump-s-trip-to-china",
           "source": "Bloomberg Markets",
-          "time": "Wed, 13 May 2026 16:45:01 GMT",
-          "summary": "Federal Reserve Bank of Boston President Susan Collins says interest rates should remain on hold for “some time,” arguing she is particularly concerned about elevated inflation. She speaks during an event organized by the Boston Economic Club. (Source: Bloomberg)"
-        },
-        {
-          "title": "Jump in Gamma Points to Investors Chasing the Market",
-          "link": "https://www.bloomberg.com/news/videos/2026-05-13/jump-in-gamma-points-to-investors-chasing-the-market-video",
-          "source": "Bloomberg Markets",
-          "time": "Wed, 13 May 2026 16:43:55 GMT",
-          "summary": "Stock market gamma has jumped higher in one of the most rapid moves seen. \nSimon White, Macro Strategist with Bloomberg News, explains what gamma's sudden, near record high surge means for the market going forward. (Source: Bloomberg)"
-        },
-        {
-          "title": "The Iran War Is Going to Make Your Car’s Oil Change More Pricey",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-13/the-iran-war-is-going-to-make-your-car-s-oil-change-more-pricey",
-          "source": "Bloomberg Markets",
-          "time": "Wed, 13 May 2026 16:27:24 GMT",
-          "summary": "The Iran war is throwing a niche corner of the oil market into disarray as fallout from scrambled supply chains for the commodity reaches all the way to the automotive maintenance and industrial sectors."
+          "time": "Wed, 13 May 2026 12:06:13 GMT",
+          "summary": "An upcoming meeting between US President Donald Trump and his Chinese counterpart Xi Jinping could be the next test for stocks that are clocking one record after the next."
         }
       ]
     },
@@ -162,11 +162,11 @@
           "summary": "Asia's trillion-dollar titans are powering — and distorting — its fastest growing stock markets  CNBC"
         },
         {
-          "title": "Why the World’s Hottest Stock Market Got Derailed by Talk of an AI Tax - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iYmFlOFpHUGw0SzlmY1lqZkRQN05oYlBYVmZ1eWV6Nmlja2ZxSjNJRTlEd3JuLXpPNm9wUFpMVmg3bnY3UzJTWkJwaG4tUDlKcmJoTXdwZ3RpTkVPUTVlUkk3OXBEaTloa3JvY1hQZVlYUFJtRkE?oc=5",
+          "title": "Why Hedge Funds Still See Value in Red-Hot South Korean Stocks - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNWZZdkFRbnBVbVVfZXREWFA0ZXNMVTFqOWZxS2lQMlEyQ2dZZ1pHVVlwY1FpbTZldV9YOHE0cmVENlhHU2hZS3ZkdmstQmhLOXRaMFFXdFdabWNhNDBtWWU3WjZ4UDJubGlnUFhURGlFMXJtZ0g3Y1hUN2RZcmtzc21aTGctOVp4TkVUWmJJMGhXWVU?oc=5",
           "source": "Google News Korea Stocks",
-          "time": "Tue, 12 May 2026 12:39:00 GMT",
-          "summary": "Why the World’s Hottest Stock Market Got Derailed by Talk of an AI Tax  Barron's"
+          "time": "Wed, 13 May 2026 20:24:00 GMT",
+          "summary": "Why Hedge Funds Still See Value in Red-Hot South Korean Stocks  Barron's"
         },
         {
           "title": "South Korea's stock market is hotter than ever — and Goldman Sachs says it still has lots of room to run - Business Insider",
@@ -176,18 +176,18 @@
           "summary": "South Korea's stock market is hotter than ever — and Goldman Sachs says it still has lots of room to run  Business Insider"
         },
         {
-          "title": "Korea Surpasses Canada as World’s Seventh-Largest Stock Market - Bloomberg",
+          "title": "Korea Inc’s profit boom seen to boost Kospi earnings past $710 bn in 2027; 10,000-point index eyed - KED Global",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jYlo2X3NPaFYwdXNlNTVtN2xXYTQ5ckpwM0g4bXdBU25qWjAwbjBKWlpPV3diS2JFSjhHcEYxM0Q4ZHVCZWxOUzMxUUZzNDRnREo5WmllSlpmYkRxd3lscnlEdXA2MkpjdFppSU03dElGcUlKZWJOOWp3?oc=5",
+          "source": "Google News Korea Stocks",
+          "time": "Mon, 11 May 2026 13:05:00 GMT",
+          "summary": "Korea Inc’s profit boom seen to boost Kospi earnings past $710 bn in 2027; 10,000-point index eyed  KED Global"
+        },
+        {
+          "title": "Korea Surpasses Canada as World’s Seventh-Largest Stock Market - Bloomberg.com",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeVpBVDhpWHhjVlNfODRQRWMtRUdTeEktbmJkVC1vVWxBTGp2Z3FvMmhfYklkVk1xd1Z0QVNoMC02NUJwV1gxbWZ2MGxvaERwR1NjWW5BbkQtczRhTi1SdllLTFVqVkN5ZWU0aDZySUx0MTQwQjU5amhVbEY0aHNtY2pnY3dsNkNQUHlEbXdhLXFUdVhFWksyMHdXY0lJR1NmZ19HTVF3VTZUOWZDSWJwYnRrNA?oc=5",
           "source": "Google News Korea Stocks",
           "time": "Thu, 07 May 2026 01:15:00 GMT",
-          "summary": "Korea Surpasses Canada as World’s Seventh-Largest Stock Market  Bloomberg"
-        },
-        {
-          "title": "Korea’s chip-led Kospi charges toward 8,000, but retail investors feel left behind - KED Global",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YYVJsYlFzS0ZueUFjdXJIR01FeWx6R2gwRWVTaE5sSV9qMG1nUDFJNjFHeEdUU3N2VEh4M3hMbGRIRkc1ZDlhM2tsdkNlSjVWU1RRVGhLdWh6c2N6ejRrbHFrM0x6eXlxZ3U1R1VhejYwMlJNaWo4akdn?oc=5",
-          "source": "Google News Korea Stocks",
-          "time": "Fri, 08 May 2026 11:03:00 GMT",
-          "summary": "Korea’s chip-led Kospi charges toward 8,000, but retail investors feel left behind  KED Global"
+          "summary": "Korea Surpasses Canada as World’s Seventh-Largest Stock Market  Bloomberg.com"
         }
       ]
     },
@@ -202,11 +202,11 @@
           "summary": "Europe’s few AI plays soar as US tech frenzy goes global  Financial Times"
         },
         {
-          "title": "European markets rise, UK gilts volatile as pressure mounts on PM Starmer - CNBC",
+          "title": "European markets close higher, UK gilts volatile as pressure mounts on PM Starmer - CNBC",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaEkxVUY1N2p0dGViN2NkZDNuTEYyUlJjemJrdVRUOTNuZ2FqYnJoWE9lMXM5SmlwaEU0eTdMOWZrek1TSGFObElHbFYwQWwzSGI4R3JYdVNiVDZhWmpaNmR2R003STI5aENJNmJzNDU3Zi1PdlUzS0EwNGNLSU9zbWFRRkM2Zlc0OWpqMDJwaEpWSXBSVFJkaDZZVjBFakVQaWfSAacBQVVfeXFMTUpEWGtZem5rVnNqWF81YTBhd0RYZFhndDJPcGV2WXNWZmVSZ0JGZXVsNUFlN1UzeHpZc3BLaFJHbUZfd1dqUHU0N21mMVJ6MWdGZzVhWFhDc2FqYWxnU3pwazAtQ3NIc1hhWWNNMWVBQ1hrY1AtcFl2d3gyZkhhYnJZUzUxbzYzQVYtQ0ViRDV4VDdQejFrSi1KYVBOYTdRWk5NZ3FnNEk?oc=5",
           "source": "Google News Europe Stocks",
           "time": "Wed, 13 May 2026 05:42:43 GMT",
-          "summary": "European markets rise, UK gilts volatile as pressure mounts on PM Starmer  CNBC"
+          "summary": "European markets close higher, UK gilts volatile as pressure mounts on PM Starmer  CNBC"
         },
         {
           "title": "What makes a stock jump 1,000%? Europe’s winners of 2026 - Euronews.com",
@@ -223,11 +223,11 @@
           "summary": "European Stocks Estimated To Be Up To 30.8% Below Their Intrinsic Value  Yahoo Finance UK"
         },
         {
-          "title": "European stocks rise, oil prices steady, government bond yields still high - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9WQ2g4TE51V0FmWDBZOFVjQVhDbVphVXVWQzVmV1RLY01taHBramJiaVNPTUdHZVZTQWtwWExtM2NUSW9fVkVLN2p4UzRMWUNla01KWnNYQVdLR3hlMUhxWlZqZEhQQnIxaThhVXQxNk44Sks1VXZHSkhEVQ?oc=5",
+          "title": "STOXX 600 falls as fragile Middle East ceasefire dents risk sentiment - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSFlYcnQ0MUwxZWZaWThmaENHWWtzTnJfc2FxVi15WjNjNldnQUdoZmotNVBLalY0VjIxUFcyRGhmRjhHbF9YT19qNGEzdXFadTU3djdTalBmTGFQblc5SE01aDhCNVNGLTY5WXZoaHQtdjZ5cDhVTHdIX2preVJzVkJzeGR6TVMySHR5bld4TGs0cUFUcEtrWlZFTENxRjJySFFfQkItRDQ4aXB3czNMZ1JyQ2I?oc=5",
           "source": "Google News Europe Stocks",
-          "time": "Wed, 13 May 2026 01:27:00 GMT",
-          "summary": "European stocks rise, oil prices steady, government bond yields still high  Reuters"
+          "time": "Tue, 12 May 2026 17:07:38 GMT",
+          "summary": "STOXX 600 falls as fragile Middle East ceasefire dents risk sentiment  Reuters"
         }
       ]
     }

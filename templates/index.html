@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>📊 股市新聞速報</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+            color: #e2e8f0;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding: 20px;
+            background: rgba(30, 41, 59, 0.8);
+            border-radius: 16px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(99, 102, 241, 0.2);
+        }
+        
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            background: linear-gradient(45deg, #60a5fa, #a78bfa);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        
+        .timestamp {
+            color: #94a3b8;
+            font-size: 1.1em;
+        }
+        
+        .markets-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .market-card {
+            background: rgba(30, 41, 59, 0.9);
+            border-radius: 16px;
+            padding: 20px;
+            border: 1px solid rgba(99, 102, 241, 0.2);
+            backdrop-filter: blur(10px);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .market-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(99, 102, 241, 0.2);
+        }
+        
+        .market-title {
+            font-size: 1.5em;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid rgba(99, 102, 241, 0.3);
+        }
+        
+        .news-item {
+            background: rgba(15, 23, 42, 0.6);
+            border-radius: 12px;
+            padding: 15px;
+            margin-bottom: 15px;
+            border-left: 4px solid #60a5fa;
+            transition: all 0.3s ease;
+        }
+        
+        .news-item:hover {
+            background: rgba(15, 23, 42, 0.8);
+            border-left-color: #a78bfa;
+        }
+        
+        .news-title {
+            font-weight: 600;
+            margin-bottom: 8px;
+            line-height: 1.4;
+        }
+        
+        .news-title a {
+            color: #e2e8f0;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+        
+        .news-title a:hover {
+            color: #60a5fa;
+        }
+        
+        .news-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 8px;
+            font-size: 0.9em;
+        }
+        
+        .news-source {
+            color: #60a5fa;
+            font-weight: 500;
+        }
+        
+        .news-time {
+            color: #94a3b8;
+        }
+        
+        .news-summary {
+            color: #cbd5e1;
+            line-height: 1.5;
+            font-size: 0.95em;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #94a3b8;
+            font-size: 1.2em;
+        }
+        
+        .spinner {
+            border: 3px solid rgba(99, 102, 241, 0.3);
+            border-top: 3px solid #60a5fa;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        .status-bar {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: rgba(30, 41, 59, 0.9);
+            padding: 10px 15px;
+            border-radius: 20px;
+            font-size: 0.9em;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(99, 102, 241, 0.2);
+        }
+        
+        .status-dot {
+            display: inline-block;
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: #10b981;
+            margin-right: 8px;
+            animation: pulse 2s infinite;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+        
+        .no-data {
+            text-align: center;
+            padding: 60px 20px;
+            color: #94a3b8;
+        }
+        
+        .no-data-icon {
+            font-size: 4em;
+            margin-bottom: 20px;
+        }
+        
+        @media (max-width: 768px) {
+            .markets-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            h1 {
+                font-size: 2em;
+            }
+            
+            .container {
+                padding: 0 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📊 股市新聞速報</h1>
+            <div class="timestamp" id="timestamp">載入中...</div>
+        </header>
+        
+        <div class="status-bar">
+            <span class="status-dot"></span>
+            <span id="status">即時更新</span>
+        </div>
+        
+        <div id="content">
+            <div class="loading">
+                <div class="spinner"></div>
+                <div>正在載入最新股市新聞...</div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        let refreshInterval;
+        
+        async function loadNews() {
+            try {
+                const response = await fetch('/api/news');
+                const data = await response.json();
+                
+                if (data.error) {
+                    showNoData(data.error);
+                    return;
+                }
+                
+                updateTimestamp(data.timestamp);
+                renderNews(data.sections);
+            } catch (error) {
+                console.error('Failed to load news:', error);
+                showNoData('載入失敗，請稍後再試');
+            }
+        }
+        
+        function updateTimestamp(timestamp) {
+            document.getElementById('timestamp').textContent = 
+                `📅 最後更新：${timestamp}`;
+        }
+        
+        function renderNews(sections) {
+            const content = document.getElementById('content');
+            
+            if (!sections || sections.length === 0) {
+                showNoData('暫無新聞數據');
+                return;
+            }
+            
+            let html = '<div class="markets-grid">';
+            
+            sections.forEach(section => {
+                html += `
+                    <div class="market-card">
+                        <h2 class="market-title">${section.title}</h2>
+                        ${section.items.map(item => `
+                            <div class="news-item">
+                                <div class="news-title">
+                                    <a href="${item.link}" target="_blank" rel="noopener noreferrer">
+                                        ${item.title}
+                                    </a>
+                                </div>
+                                <div class="news-meta">
+                                    <span class="news-source">📰 ${item.source || 'Unknown'}</span>
+                                    <span class="news-time">🕒 ${item.time || ''}</span>
+                                </div>
+                                ${item.summary ? `<div class="news-summary">${item.summary}</div>` : ''}
+                            </div>
+                        `).join('')}
+                    </div>
+                `;
+            });
+            
+            html += '</div>';
+            content.innerHTML = html;
+        }
+        
+        function showNoData(message) {
+            const content = document.getElementById('content');
+            content.innerHTML = `
+                <div class="no-data">
+                    <div class="no-data-icon">📭</div>
+                    <div>${message}</div>
+                </div>
+            `;
+        }
+        
+        // Auto-refresh every 5 minutes
+        function startAutoRefresh() {
+            refreshInterval = setInterval(loadNews, 5 * 60 * 1000);
+        }
+        
+        // Initial load
+        document.addEventListener('DOMContentLoaded', () => {
+            loadNews();
+            startAutoRefresh();
+        });
+        
+        // Manual refresh button (double click header)
+        document.querySelector('header').addEventListener('dblclick', () => {
+            document.getElementById('content').innerHTML = `
+                <div class="loading">
+                    <div class="spinner"></div>
+                    <div>正在重新整理...</div>
+                </div>
+            `;
+            loadNews();
+        });
+    </script>
+</body>
+</html>

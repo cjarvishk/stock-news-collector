@@ -1,9 +1,23 @@
 {
-  "timestamp": "2026-05-14 09:08 (HKT)",
+  "timestamp": "2026-05-14 13:10 (HKT)",
   "sections": [
     {
       "title": "🇺🇸 美國股市",
       "items": [
+        {
+          "title": "Xi asks Trump if U.S. and China can avoid 'Thucydides Trap' at high-stakes summit",
+          "link": "https://www.cnbc.com/2026/05/14/trump-xi-beijing-summit-trade-taiwan-ai-iran-rare-earths-tariffs.html",
+          "source": "CNBC Top News",
+          "time": "Thu, 14 May 2026 04:57:20 GMT",
+          "summary": "U.S. President Donald Trump met Chinese President Xi Jinping in Beijing on Thursday morning for the start of a high-stakes summit that runs through Friday."
+        },
+        {
+          "title": "In photos: Trump kicks off high-stakes summit with Xi",
+          "link": "https://www.cnbc.com/2026/05/14/in-photos-trump-lands-in-beijing-ahead-of-high-stakes-summit-with-xi.html",
+          "source": "CNBC Top News",
+          "time": "Thu, 14 May 2026 04:44:16 GMT",
+          "summary": "The high-stakes summit is expected to cover a wide range of contentious topics, including trade, technology, export controls, Taiwan, and the Iran war."
+        },
         {
           "title": "Cisco's stock pops 17% on surging AI orders, as company says it's cutting almost 4,000 jobs",
           "link": "https://www.cnbc.com/2026/05/13/cisco-csco-q3-earnings-report-2026.html",
@@ -12,25 +26,11 @@
           "summary": "Cisco's AI story has finally started resonating with Wall Street, with the stock hitting a record late last year and continuing to rally in 2026."
         },
         {
-          "title": "Asia-Pacific stocks trade mixed as Trump lands in Beijing for high-stakes Xi meeting",
-          "link": "https://www.cnbc.com/2026/05/14/asia-pacific-markets-live-donald-trump-xi-jinping-us-china-meeting-hang-seng-nikkei-kospi.html",
-          "source": "CNBC Top News",
-          "time": "Thu, 14 May 2026 00:14:58 GMT",
-          "summary": "Asia markets traded mixed ahead of closely watched Trump-Xi summit on trade, tariffs and technology restrictions."
-        },
-        {
           "title": "Kevin Warsh wins Senate confirmation as the next Federal Reserve chair",
           "link": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html",
           "source": "CNBC Top News",
           "time": "Wed, 13 May 2026 23:21:35 GMT",
           "summary": "In the most divisive vote ever for a Fed chair, Warsh, 56, won confirmation to take over for Jerome Powell."
-        },
-        {
-          "title": "In photos: Trump lands in China ahead of high-stakes summit with Xi",
-          "link": "https://www.cnbc.com/2026/05/14/in-photos-trump-lands-in-beijing-ahead-of-high-stakes-summit-with-xi.html",
-          "source": "CNBC Top News",
-          "time": "Thu, 14 May 2026 00:59:07 GMT",
-          "summary": "The high-stakes summit is expected to cover a wide range of contentious topics, including trade, technology, export controls, Taiwan, and the Iran war."
         },
         {
           "title": "This low-profile stock in the semiconductor supply chain has doubled this year. Wall Street still loves it",
@@ -54,11 +54,11 @@
           "summary": "S&P 500 ekes out a gain for first close above 7,400 despite another Iran setback: Live updates  CNBC"
         },
         {
-          "title": "U.S. Stock Market on Wednesday: Dow Jones, S&P 500, Nasdaq to bounce back or Wall Street crash is happenin - The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNbmo5c3hyY24wek5UZWd1dm1LU0U1RG1pdWZtWDVfQmItS1RxckRLTkJELUV2bEMzc2pkMG9CeU1xMHRSSmFtckROZWxBaTR3WlF1WEVWOHpCTTlqU3BsRFdxNjVCSDIxamxWZ1NtaUZjb3JhSWtDRmx5VjNXLWVjTjZRUmlwb2xvQTlySWswVFNhZVlTWFcwanp2QllIbllZdk1YRE5NcVVqbGNITHp5Nzl0S1llYU9NR0Z6TUxUWnV0M2IybGxtUnZVdzR3MmtQNmpPOXc5TlpEX2NvRzNqMGtKM2x5bzdkRFlzUUhTeEMyWVgyX1JMZW5pcEhtSjFCU3A0NjVnVGNzUmNXQnB3SS02blVQNmd1VG5wc0l3MlpIUERVeXdvcXNn0gGvAkFVX3lxTE1TYVdQTy1nMWR4SGRITDJUTzRVVUlPd0FOanVXVkpza3puVEZsNVAtUUtydHV2elBudXhIQW9pLWRzZ3NMU1hlbHJHbnIyaW85UVB3aXVsUjVyWTVKRE15b2RhdFJESmtZTGpyN2NuaGpSbTZ2eGlIVXVPNHZNZlN6cWlTQ1Y5d0dJLWo4OHFfX2hkYWd3UkNtSDZpbTE2UlRiRGxLQ09TSm5YQWhMZWE3ZDU4STNmNnczUk90dHJMSkU2N2xSQnlmUGpyV1hCaTdEWko3bU1xa3pZZVFkaFVuVDhEMmZVY0t4bFZDZ21ZNmVSQWQ5My0zeE1OTVR5NjBfTlkxNzNYTnRkdlNFNnpNMnhJa29xNmthLUFDSlJDcUlydl9YN3B1SzdyRWhURQ?oc=5",
+          "title": "US stock market today: Why is Dow Jones crashing while the S&P 500 and Nasdaq rise? Dow falls 260 points a - The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQZmxweEtuYzRmc1lzQnNnc05fTERmOHMxdzBfZ2NCZ3ZtZS01ZEN0dFZTdzlkeG13Sm1GUEttbnctUEhwbXc4MkVqWEktSTQzZzNQbVA5ekRSdWw2bFVjMmNEakloekJHVnJFOEVKeUR5R1VNLTNlRXZPdzJkb1NhdV83TXJweE5memwyUGN2VlZQY2FEVVNLM1UyMnVnSEVNb1RndThmamt4YTJLekVRdThwWEZEcVczeGFpY3phaGdNR0sxQXZDNklWRGFBa2czeDlqSFhfcFVITmk1X2VQZk1LYWNQd29ibVZYWG1uSTNwODJDMVd1TWhXNDBBX0xvWU1GSllXeXVQS3lGblRqc1FBNzh3TkJ2QWxjaG5USnZfeVRvUmtjVkIyVHA5c2dPRURlai12a3prV2s0S3VWR1pkcXpfRmvSAcwCQVVfeXFMTnZoVFRnZGtIb0ktaHZyZkxab2pBRnhsVXhqclllV1NuOWZQWkFTam5HNzdUTGFrc0wtVjFTQXhaRUVqUmtzSFdKSEZYWVJ1QzEwdzVvaEd2U2I0WlFydUJaZXJQWEZYWlMxaGlRaHNoelNTRW5Bb2NhcDRGM3NkakN0eGJULUtGSUhSTzZLZ3FGWFdid0wyaV9lWG1FZWpKV1VyRFFadXkwQzhoT2RhSUpaaE8ybU1HZmhzbjhuQUlqLWNTVUd0NTJaNEVJM1RieUxiMVRwVVBBaFRGdVNSRG85cUVweHFEMFlTMGcyellhYkRKUE1yNXBlMzJwVnpjdlk1bDlSTXF6bDd0TzJ3MnRJMzF1QUtLRGRfdzNodEZiNE1teC1xUjQtVTFOTzVwWnpmU1lNelNBRkU1X2ExWWxpaFUtRGtSZmV4d1g?oc=5",
           "source": "Google News US Stocks",
-          "time": "Wed, 13 May 2026 01:27:39 GMT",
-          "summary": "U.S. Stock Market on Wednesday: Dow Jones, S&P 500, Nasdaq to bounce back or Wall Street crash is happenin  The Economic Times"
+          "time": "Wed, 13 May 2026 15:31:59 GMT",
+          "summary": "US stock market today: Why is Dow Jones crashing while the S&P 500 and Nasdaq rise? Dow falls 260 points a  The Economic Times"
         },
         {
           "title": "Stock market today: Dow slides, S&P 500 and Nasdaq rise as PPI inflation data comes in hot - Yahoo Finance",
@@ -75,39 +75,39 @@
           "summary": "Stock market today: Dow rises, S&P 500 and Nasdaq eke out records as chip stocks extend gains  Yahoo Finance"
         },
         {
-          "title": "India Bans Sugar Exports Through September to Protect Supply",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-13/india-bans-sugar-exports-until-end-september-to-protect-supply",
+          "title": "Japan’s 30-Year Bond Sale Draws Firmer Demand on Higher Yields",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-14/japan-s-30-year-bond-sale-demand-stronger-than-12-month-average",
           "source": "Bloomberg Markets",
-          "time": "Wed, 13 May 2026 23:58:41 GMT",
-          "summary": "India, the world’s second-largest sugar producer, has banned exports until the end of September, according to an official notice, as the government seeks to protect local supplies."
+          "time": "Thu, 14 May 2026 03:41:09 GMT",
+          "summary": "Japan’s 30-year government bond auction Thursday saw slightly stronger demand than the 12-month average as higher yields underpinned buying."
         },
         {
-          "title": "Nasdaq Futures Rise, Focus Turns to Trump-Xi Meet: Markets Wrap",
+          "title": "Stocks Waver as Trump Meets With Xi, Bonds Gain: Markets Wrap",
           "link": "https://www.bloomberg.com/news/articles/2026-05-13/asian-stocks-to-climb-as-wall-street-hits-new-high-markets-wrap",
           "source": "Bloomberg Markets",
           "time": "Wed, 13 May 2026 22:07:17 GMT",
-          "summary": "US equity-index futures advanced as traders bet the record-breaking rally driven by enthusiasm for the artificial intelligence trade has further room to run."
+          "summary": "Asian equities swung between small gains and losses as the US and China held their summit, with traders looking to the meeting for clues on the trajectory of trade ties between the world’s two largest economies."
         },
         {
-          "title": "What's At Stake as Xi and Trump Meet in Beijing",
-          "link": "https://www.bloomberg.com/news/videos/2026-05-14/what-s-at-stake-as-xi-and-trump-meet-in-beijing-video",
+          "title": "Japan’s Eneos Buys Chevron Asia Oil Assets for $2.2 Billion",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-14/japan-s-eneos-buys-chevron-s-asian-oil-assets-for-2-2-billion",
           "source": "Bloomberg Markets",
-          "time": "Thu, 14 May 2026 00:44:50 GMT",
-          "summary": "President Donald Trump is in Beijing for the first state visit to China by a US leader in nine years, as the world’s two largest economies look to stabilize ties against the backdrop of the Iran war. Bloomberg's Stephen Engle breaks down what is at stake. (Source: Bloomberg)"
+          "time": "Thu, 14 May 2026 04:09:13 GMT",
+          "summary": "Japanese refiner Eneos Holdings Inc. agreed to purchase some of Chevron Corp.’s refining and retail assets across the Asia-Pacific for $2.17 billion, significantly expanding its footprint across the region."
         },
         {
-          "title": "ASX Names Former Euronext Paris Chief Anthony Attia as CEO",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-13/asx-names-former-euronext-paris-chief-anthony-attia-as-ceo",
+          "title": "Bagmane REIT Rises in Debut Following $360 Million India IPO",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-14/bagmane-reit-set-for-debut-in-test-for-india-s-ipo-market",
           "source": "Bloomberg Markets",
-          "time": "Wed, 13 May 2026 22:30:26 GMT",
-          "summary": "ASX Ltd. named Euronext NV executive Anthony Attia as its new leader, concluding a global search after Helen Lofthouse said earlier this year she would depart Australia’s main exchange operator."
+          "time": "Thu, 14 May 2026 01:30:00 GMT",
+          "summary": "Blackstone Inc.-backed Bagmane Prime Office REIT rose on its trading debut on Thursday after raising $360 million in an initial public offering."
         },
         {
-          "title": "Oil Steadies Ahead of Trump-Xi Talks as Iran War Tensions Simmer",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-13/latest-oil-market-news-and-analysis-for-may-14",
+          "title": "Why the ECB’s June Interest-Rate Hike Is Becoming Less Certain",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-14/why-the-ecb-s-june-interest-rate-hike-is-becoming-less-certain",
           "source": "Bloomberg Markets",
-          "time": "Wed, 13 May 2026 22:08:52 GMT",
-          "summary": "Oil steadied ahead of a meeting between US President Donald Trump and Chinese leader Xi Jinping, set against the backdrop of the Iran war that shows no signs of a near-term resolution."
+          "time": "Thu, 14 May 2026 04:15:00 GMT",
+          "summary": "Two weeks after Christine Lagarde put investors on alert that the European Central Bank is moving toward raising interest rates, a hike in June is becoming less obvious."
         }
       ]
     },
@@ -115,11 +115,18 @@
       "title": "🇯🇵 日本股市",
       "items": [
         {
-          "title": "Japan stocks higher at close of trade; Nikkei 225 up 0.94% - Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWmNLYXA2c2xPWXROYlFodkJUcm1MQlpOallzVDBEZmoxbHNJNFducjBobEUzMmIzU3pkTXVDQW41emgzT3FUUXZBcjVENFNMQzQyZ3dCY0oydWpxTVVHRUZPTTd1Qk1ZWUFIYWx4cU9kby03aEx1RTFkcFQ3RFJMVVFLRFhQdkxVS0F5ejhnTXY2ajJZZC16bWEzNU9Lc0xqVHJQOWZpVF94d19SWTNEYTNR?oc=5",
+          "title": "Asia stocks gain on AI enthusiasm, focus on Trump-Xi summit - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fY0kxQml0aFpucDFLYmVRWUlqb28tdmlEejdneTBTbmNwdEJaUk1zR0tuSzR4Z3NuSkxyUWR4bnpRZVRKbEszVlg4X1dFT0ZVWFdIV25LSHBMZ2h2clBtc3Q3UEk5aGl3Vi03aW9NY0RJNUpNVG83a1Y5NlFYdnM?oc=5",
           "source": "Google News Japan Stocks",
-          "time": "Wed, 13 May 2026 07:03:24 GMT",
-          "summary": "Japan stocks higher at close of trade; Nikkei 225 up 0.94%  Investing.com"
+          "time": "Thu, 14 May 2026 01:41:00 GMT",
+          "summary": "Asia stocks gain on AI enthusiasm, focus on Trump-Xi summit  Reuters"
+        },
+        {
+          "title": "Nikkei (JPY) Overview - CME Group",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUXhmUXM2OUlEaFFkcGgxb2VScmpiR0JSY0RKc0ZoT2VGWHF6RXRHcWR1b05jVFI4SGh1TzBwMVRTVGVVSTVSVVFKUDhfbXhlcFJKbGRMblBzSGFUdGpDVnlTcmFDQi1YTU12WGk4ZE1wVHBKRTloVF9YQ1NpMHNQS2ZSM01ONUJsbHNr?oc=5",
+          "source": "Google News Japan Stocks",
+          "time": "Fri, 08 May 2026 07:00:00 GMT",
+          "summary": "Nikkei (JPY) Overview  CME Group"
         },
         {
           "title": "Stock market today: Nikkei, FTSE edge up as S&P 500 retreats from all-time highs, Nasdaq sinks - Economy Middle East",
@@ -129,25 +136,18 @@
           "summary": "Stock market today: Nikkei, FTSE edge up as S&P 500 retreats from all-time highs, Nasdaq sinks  Economy Middle East"
         },
         {
-          "title": "Japanese investors sell foreign stocks in April as energy costs rise - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSG5icHd5bnFJcGFGaEpUTFZXVFNlcEt0Zm5vNlFWbGdFQ0hyZzVyMUpzZXhRdklrZkdnaE1iM0JzN3BMOEdzNjh6Z0JZUm1GWjRBVUhLUkRLRDNoQ1IzMGJEQm5sNGE0dlZqOHpSRmlrSVJiSnFscUdKQVh5Ym42WEphTTd3b2ZTaXAydjc2MlZaNW5URWt4eERVR0xWak55bXNYT2hwSE41eV9GS3FSaktnLXhiQQ?oc=5",
+          "title": "Japan stocks higher at close of trade; Nikkei 225 up 0.94% - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWmNLYXA2c2xPWXROYlFodkJUcm1MQlpOallzVDBEZmoxbHNJNFducjBobEUzMmIzU3pkTXVDQW41emgzT3FUUXZBcjVENFNMQzQyZ3dCY0oydWpxTVVHRUZPTTd1Qk1ZWUFIYWx4cU9kby03aEx1RTFkcFQ3RFJMVVFLRFhQdkxVS0F5ejhnTXY2ajJZZC16bWEzNU9Lc0xqVHJQOWZpVF94d19SWTNEYTNR?oc=5",
           "source": "Google News Japan Stocks",
-          "time": "Wed, 13 May 2026 08:03:15 GMT",
-          "summary": "Japanese investors sell foreign stocks in April as energy costs rise  Reuters"
+          "time": "Wed, 13 May 2026 07:03:24 GMT",
+          "summary": "Japan stocks higher at close of trade; Nikkei 225 up 0.94%  Investing.com"
         },
         {
-          "title": "Japan Stock Market May See Renewed Consolidation - RTTNews",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONGNuLXNPcnRPemRnT0ZGSlpRbzhCS3prWWhEYkRoNXpZd2Vpc3BvQ2VwNjJkN3BhZkJSTTB1Ry1FdUdmVkVfVlVuUFRqS21nYjVaRkQzT1ZnaUU3ZlBWeWpGUjhkQ2tmamE4WWx4WmppM25oQXV1YlM5anN4N3loNFpGLUF2U3BiN2s0YkVB?oc=5",
+          "title": "Japan's Nikkei touches record high on tech optimism; SoftBank, Topix slump - The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRjZocTlDNHFXQm1iUWJETnlFb0QtM2dsWk94TlQxMnkwbzlvZ0d0ZjlEczZST0xPT3p3Zi1pMkFaZmI1R2hTYTYybkJrV3RXVms0ekZHYUpKeDZEUldEM0k5MXl5bEZvOV9kbXR6QmdZMm5FREtMNWRwcHZfYThpN21EZzVUdlBKbDlNTkk3V2pZRmp5QVhnLXlSdWdMWkU3ZWQyZW9ZUHlySUtydlljd29UcGhJUEgwMXU5QU85MDVTTFpFYlpoSk8xZC1jZUhUUFZ0Qk80VFl1QzNTUUHSAeMBQVVfeXFMTVJ2RGhPNm9wY3pZQ3V5cW4yZ0FmOEdybnJTOFJ0N3p4T2V6OUZyWTVmOURWQnRzdHVlMEkxajFKbDFwc0xTNXpfN1dVeUxLOEpXNjVRVHQ0a01nd2ZpaTJSLXFQeTJrZ185ZE00UzBRWVFpVDNIOFR4ZllMLWV5QWhfYTNnbWlDV0NaaERjcWJvbnNtM1Z6ZFpMeUtWZnE1aXlMRDZZc1hMT21uY0xWdlctekN4MUVsanBWSUV1WEktOFpyeDRNay1UVFU2ZjJHMXV2UHBnZTh3Qm5YLVVLQjZYa2s?oc=5",
           "source": "Google News Japan Stocks",
-          "time": "Tue, 12 May 2026 23:18:00 GMT",
-          "summary": "Japan Stock Market May See Renewed Consolidation  RTTNews"
-        },
-        {
-          "title": "Tokyo Market Summary: Nikkei Average Continues to Rise, Hitting New Record Highs; Kioxia Extends Winning Streak to 5 Days. Musashi Seimitsu Soars on Expectations of Increased Capacitor Demand. Furukawa Electric and Mitsui Metals Rally on Strong Bu - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQk5INE1wbndra1l6UGxaYlZBRUQ5T1JrVzlfUld5OUtDRHNpdjlHNFdTSm1RT3ZLaHBJeEpWUjFhTE5QRXNjWlNhdE5CZThJOW1XRnNpZi0xNkhRT1FQdjItU2lPN3hKRUJoWDZwbFpLLXJzMzFFUUxDbm1HQml1c00yc2dFQ3otcHpFVk5aQ19OTTYxQ0RCU2RvVUFBeWJpSWxKSWY3aVdGcTl1UmQxbVB1VFRIUkk?oc=5",
-          "source": "Google News Japan Stocks",
-          "time": "Wed, 13 May 2026 06:57:10 GMT",
-          "summary": "Tokyo Market Summary: Nikkei Average Continues to Rise, Hitting New Record Highs; Kioxia Extends Winning Streak to 5 Days. Musashi Seimitsu Soars on Expectations of Increased Capacitor Demand. Furukaw..."
+          "time": "Thu, 14 May 2026 03:45:41 GMT",
+          "summary": "Japan's Nikkei touches record high on tech optimism; SoftBank, Topix slump  The Economic Times"
         }
       ]
     },
@@ -162,11 +162,18 @@
           "summary": "Asia's trillion-dollar titans are powering — and distorting — its fastest growing stock markets  CNBC"
         },
         {
-          "title": "Why the World’s Hottest Stock Market Got Derailed by Talk of an AI Tax - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iYmFlOFpHUGw0SzlmY1lqZkRQN05oYlBYVmZ1eWV6Nmlja2ZxSjNJRTlEd3JuLXpPNm9wUFpMVmg3bnY3UzJTWkJwaG4tUDlKcmJoTXdwZ3RpTkVPUTVlUkk3OXBEaTloa3JvY1hQZVlYUFJtRkE?oc=5",
+          "title": "Why Hedge Funds Still See Value in Red-Hot South Korean Stocks - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNWZZdkFRbnBVbVVfZXREWFA0ZXNMVTFqOWZxS2lQMlEyQ2dZZ1pHVVlwY1FpbTZldV9YOHE0cmVENlhHU2hZS3ZkdmstQmhLOXRaMFFXdFdabWNhNDBtWWU3WjZ4UDJubGlnUFhURGlFMXJtZ0g3Y1hUN2RZcmtzc21aTGctOVp4TkVUWmJJMGhXWVU?oc=5",
           "source": "Google News Korea Stocks",
-          "time": "Tue, 12 May 2026 12:39:00 GMT",
-          "summary": "Why the World’s Hottest Stock Market Got Derailed by Talk of an AI Tax  Barron's"
+          "time": "Wed, 13 May 2026 23:29:00 GMT",
+          "summary": "Why Hedge Funds Still See Value in Red-Hot South Korean Stocks  Barron's"
+        },
+        {
+          "title": "Global Funds Ramp Up Korea Stock Exit as Record Rally Extends - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNHZvWkpEQzR3bGNJVkdHN3VUZDNyTjZOR1ZzZm9kVm9XUXBLcFdscEIydDc4VnhvcDViTld6LUdERHVCaFI1Wkw2YVZQdDFKWkMzaG9sLVVHd0dFRUhTQy01cnVLdXB1OVVhZ3lZYkgzX1hkeUE5QzNmTUtxeDBZNEdYRVZxS0I4VmZLbUtYcEV1cUdzZVR5U3dMSERMdnlhcFNBenJsVDdjVDVnczRtUFdR?oc=5",
+          "source": "Google News Korea Stocks",
+          "time": "Thu, 14 May 2026 03:46:00 GMT",
+          "summary": "Global Funds Ramp Up Korea Stock Exit as Record Rally Extends  Bloomberg.com"
         },
         {
           "title": "South Korea's stock market is hotter than ever — and Goldman Sachs says it still has lots of room to run - Business Insider",
@@ -174,13 +181,6 @@
           "source": "Google News Korea Stocks",
           "time": "Fri, 08 May 2026 04:56:00 GMT",
           "summary": "South Korea's stock market is hotter than ever — and Goldman Sachs says it still has lots of room to run  Business Insider"
-        },
-        {
-          "title": "Korea’s chip-led Kospi charges toward 8,000, but retail investors feel left behind - KED Global",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YYVJsYlFzS0ZueUFjdXJIR01FeWx6R2gwRWVTaE5sSV9qMG1nUDFJNjFHeEdUU3N2VEh4M3hMbGRIRkc1ZDlhM2tsdkNlSjVWU1RRVGhLdWh6c2N6ejRrbHFrM0x6eXlxZ3U1R1VhejYwMlJNaWo4akdn?oc=5",
-          "source": "Google News Korea Stocks",
-          "time": "Fri, 08 May 2026 11:03:00 GMT",
-          "summary": "Korea’s chip-led Kospi charges toward 8,000, but retail investors feel left behind  KED Global"
         },
         {
           "title": "Stock market today: Dow futures dip on $100 oil, South Korea AI news; CPI inflation data due (live coverage) - MSN",
@@ -202,11 +202,11 @@
           "summary": "Europe’s few AI plays soar as US tech frenzy goes global  Financial Times"
         },
         {
-          "title": "European markets close higher, UK gilts volatile as pressure mounts on PM Starmer - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaEkxVUY1N2p0dGViN2NkZDNuTEYyUlJjemJrdVRUOTNuZ2FqYnJoWE9lMXM5SmlwaEU0eTdMOWZrek1TSGFObElHbFYwQWwzSGI4R3JYdVNiVDZhWmpaNmR2R003STI5aENJNmJzNDU3Zi1PdlUzS0EwNGNLSU9zbWFRRkM2Zlc0OWpqMDJwaEpWSXBSVFJkaDZZVjBFakVQaWfSAacBQVVfeXFMTUpEWGtZem5rVnNqWF81YTBhd0RYZFhndDJPcGV2WXNWZmVSZ0JGZXVsNUFlN1UzeHpZc3BLaFJHbUZfd1dqUHU0N21mMVJ6MWdGZzVhWFhDc2FqYWxnU3pwazAtQ3NIc1hhWWNNMWVBQ1hrY1AtcFl2d3gyZkhhYnJZUzUxbzYzQVYtQ0ViRDV4VDdQejFrSi1KYVBOYTdRWk5NZ3FnNEk?oc=5",
+          "title": "European markets end higher as Iran's peace talks stall, defense stocks slide - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdDlHN0xqX21rTUpac2J3UjZjanVGTlZIdkx1eXZjeEtuU3c1cGl3eGZEUVZNWXN1eTVqY205RWFVRE5BeFZWU3BIcEF5aFlYeHphbWMtcGwxT1FHWHRrTkRoakpndUx6ekRfMHJaN1hYSWVLRXhGcEM5TUNCUmNxd2pyZGFrR1gxSlA4Y3l0eUpzUUxTYWpvZEFjMETSAaIBQVVfeXFMTVRsYk1yTTEwcFBjaFh5QzhZYXNvZFBBOGJuYk5HOW9wb0RMdmFKY1lSNjU1cEgzcGJ0TWxBbm1RcTFDMWJaSTBwMHNqbTRibTc4YTFrejB2RW82b0lBdGlsTFVab0w1UHozUUpId3E3T1VZQ2pGQXZXamVwVVQwN1hwd2hHQXVJWHZlSngzWTNBdlVpRmdiQ2tYNE9tYWx3dGRR?oc=5",
           "source": "Google News Europe Stocks",
-          "time": "Wed, 13 May 2026 05:42:43 GMT",
-          "summary": "European markets close higher, UK gilts volatile as pressure mounts on PM Starmer  CNBC"
+          "time": "Mon, 11 May 2026 05:23:54 GMT",
+          "summary": "European markets end higher as Iran's peace talks stall, defense stocks slide  CNBC"
         },
         {
           "title": "What makes a stock jump 1,000%? Europe’s winners of 2026 - Euronews.com",
@@ -223,11 +223,11 @@
           "summary": "European Stocks Estimated To Be Up To 30.8% Below Their Intrinsic Value  Yahoo Finance UK"
         },
         {
-          "title": "STOXX 600 falls as fragile Middle East ceasefire dents risk sentiment - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSFlYcnQ0MUwxZWZaWThmaENHWWtzTnJfc2FxVi15WjNjNldnQUdoZmotNVBLalY0VjIxUFcyRGhmRjhHbF9YT19qNGEzdXFadTU3djdTalBmTGFQblc5SE01aDhCNVNGLTY5WXZoaHQtdjZ5cDhVTHdIX2preVJzVkJzeGR6TVMySHR5bld4TGs0cUFUcEtrWlZFTENxRjJySFFfQkItRDQ4aXB3czNMZ1JyQ2I?oc=5",
+          "title": "European stocks close higher as Trump heads to China amid Iran stalemate - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaEVtdGYwNGM0OTk1ZWtVNXUwVjl3MUxPSzVxVlB3NFY2ZjhIMW1famI3RGF4a2J5SlgxVHJZNHR1S1dGSmhNb29PVEIyaThSY0JvcTlsaUNUenZndEVNSkFobE5ycEhzLUtSa3BsNS1tZk5ndXAzaThvZ25DR1FnZDBncFZjS0QyWF9kMDZDeVNKZDktaFFpYmZIenZsUXRVWUZWcDZDSXcyemtGSzUyUlBaOXNrZTZ5U1ZQd212a09yLVpVSGtwUVhoVkNiMUJiZi1R?oc=5",
           "source": "Google News Europe Stocks",
-          "time": "Tue, 12 May 2026 17:07:38 GMT",
-          "summary": "STOXX 600 falls as fragile Middle East ceasefire dents risk sentiment  Reuters"
+          "time": "Wed, 13 May 2026 16:58:02 GMT",
+          "summary": "European stocks close higher as Trump heads to China amid Iran stalemate  Investing.com"
         }
       ]
     }
